@@ -70,3 +70,68 @@ package Day12;
 //         System.out.println(isAdult);
 //     }
 // }
+// public class m {
+
+//     public static void main(String[] args) {
+//         int age = 16;
+//         if(age>=18){
+//             System.out.println("Adult");
+//         }else{
+//             System.out.println("Minor");
+//         }
+//     }
+// }
+
+// 
+// public class m {
+
+//     public static void main(String[] args) {
+//         int i=1;
+//         while (i<=5) {
+//             System.out.println(i);
+//             i++;
+//         }
+//     }
+// }
+// public class m {
+
+//     public static void main(String[] args) {
+//         for (int i = 10; i >=1; i--) {
+//             System.out.println(i);
+//         }
+//     }
+// }
+// public class m {
+
+    
+//     public static void main(String[] args) {
+//         for (int i = 1; i <=10; i++) {
+//             if(i==6){
+//                 break;
+//             }
+//             System.out.println(i);
+//         }
+//     }
+// }
+
+// public class m {
+
+//     public static void main(String[] args) {
+//         for (int i = 1; i <=10; i++) {
+//             if(i==5){
+//                 continue;
+//             }
+//             System.out.println(i);
+//         }
+//     }
+// }
+
+// public class m {
+
+//     public static void main(String[] args) {
+//         int[] arr={10, 20, 30, 40, 50};
+//         for(int num:arr){
+//             System.out.println(num);
+//         }
+//     }
+// }
