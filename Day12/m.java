@@ -11,14 +11,23 @@ package Day12;
 //     }
 // }
 
-public class m {
+// public class m {
 
-    public static void main(String[] args) {
-        char grade = 'A';
-    boolean isJavaFun = true;
-    float marks = 95.5f;
-    System.out.println("Grade: "+grade);
-    System.out.println("Java Fun: "+isJavaFun);
-    System.out.println("Marks: "+marks);
-    }
-}
+//     public static void main(String[] args) {
+//         char grade = 'A';
+//     boolean isJavaFun = true;
+//     float marks = 95.5f;
+//     System.out.println("Grade: "+grade);
+//     System.out.println("Java Fun: "+isJavaFun);
+//     System.out.println("Marks: "+marks);
+//     }
+// }
+
+// public class m {
+
+//     public static void main(String[] args) {
+//         int num=25;
+//         double d=num;
+//         System.out.println(d);
+//     }
+// }
