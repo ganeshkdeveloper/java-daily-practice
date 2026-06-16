@@ -43,3 +43,30 @@ package Day12;
 //         System.out.println("Division: "+(a/b));
 //     }
 // }
+// public class m {
+
+//     public static void main(String[] args) {
+//         String name="Ganesh";
+//         System.out.println(name.toUpperCase());
+//         System.out.println(name.toLowerCase());
+//         System.out.println(name.length());
+//     }
+// }
+// public class m {
+
+//     public static void main(String[] args) {
+        
+//         System.out.println(Math.max(10,20));
+//         System.out.println(Math.min(10,20));
+//         System.out.println(Math.sqrt(25));
+        
+//     }
+// }
+// public class m {
+
+//     public static void main(String[] args) {
+//         int age=20;
+//         boolean isAdult=age>18;
+//         System.out.println(isAdult);
+//     }
+// }
