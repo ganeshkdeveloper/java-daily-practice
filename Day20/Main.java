@@ -88,3 +88,9 @@ package Day20;
 //         System.out.println(numbers);
 //     }
 // }
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
