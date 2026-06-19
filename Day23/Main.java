@@ -31,3 +31,9 @@ package Day23;
 //         System.out.println(countNumbersGreaterThanFive(arr));
 //     }
 // }
+public class Main {
+
+    public static void main(String[] args){
+        System.out.println("Helo World!");
+    }
+}
