@@ -1,5 +1,7 @@
 package Day24;
 
+import java.util.Scanner;
+
 // import java.util.*;
 
 // public class Main {
@@ -21,3 +23,13 @@ package Day24;
 //       sc.close();
 //     }
 // }
+
+public class Main {
+    public static void main(String[] args) {
+      Scanner sc=new Scanner(System.in);
+      int a=sc.nextInt();
+      int b=sc.nextInt();
+      System.out.printf("The sum is %d",a+b);
+      sc.close();
+    }
+}
