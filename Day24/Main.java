@@ -33,3 +33,20 @@ import java.util.Scanner;
 //       sc.close();
 //     }
 // }
+// import java.util.*;
+
+// public class Main {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+
+//         int totalDays = sc.nextInt();
+
+//         int years = totalDays / 365;
+//         int remDays = totalDays % 365;
+//         int weeks = remDays / 7;
+//         int days = remDays % 7;
+
+//         System.out.printf("%d year, %d weeks, %d days",
+//                           years, weeks, days);
+//     }
+// }
