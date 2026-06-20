@@ -2,11 +2,22 @@ package Day24;
 
 import java.util.*;
 
-public class Main {
-    public static void main(String[] args) {
-      Scanner s=new Scanner(System.in);
-      String a=s.nextLine();
-      System.out.printf("Hello, %s! Welcome to Programming.",a);
-      s.close();
-    }
-}
+// public class Main {
+//     public static void main(String[] args) {
+//       Scanner s=new Scanner(System.in);
+//       String a=s.nextLine();
+//       System.out.printf("Hello, %s! Welcome to Programming.",a);
+//       s.close();
+//     }
+// }
+// import java.util.*;
+
+// public class Main {
+//     public static void main(String[] args) {
+//       Scanner sc=new Scanner(System.in);
+//       Double r=sc.nextDouble();
+      
+//       System.out.printf("Area = %d",3.14*r*r);
+//       sc.close();
+//     }
+// }
