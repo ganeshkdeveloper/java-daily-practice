@@ -36,15 +36,15 @@ package Day25;
 //         System.out.printf("Average = %.1f", (a + b + c) / 3);
 //     }
 // }
-import java.util.*;
+// import java.util.*;
 
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+// public class Main {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
-        int b = sc.nextInt();
+//         int a = sc.nextInt();
+//         int b = sc.nextInt();
 
-        System.out.println("Remainder = " + (a % b));
-    }
-}
+//         System.out.println("Remainder = " + (a % b));
+//     }
+// }
