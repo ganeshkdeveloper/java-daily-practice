@@ -15,6 +15,9 @@ package Day26;
 //     }
 // }
 
+// import java.util.ArrayList;
+// import java.util.HashMap;
+
 // public class Main {
 // static int countNumbersEqualToTen(int[] arr){
 //     int count=0;
@@ -90,5 +93,45 @@ package Day26;
 //     public static void main(String[] args) {
 //         Animal a=new Dog();
 //         a.sound();
+//     }
+// }
+// interface Animal{
+//     void sound();
+// }
+// class Dog implements Animal{
+//     public void sound(){
+//           System.out.println("Dog Barks");
+//     }
+// }
+// public class Main {
+
+//     public static void main(String[] args) {
+//         Animal a=new Dog();
+//         a.sound();
+//     }
+// }
+// public class Main {
+
+//     public static void main(String[] args) {
+//         ArrayList<String> names=new ArrayList<>();
+//         names.add("Ganesh");
+//         names.add("Java");
+//         names.add("Python");
+//         for(String name:names){
+//             System.out.println(name);
+//         }
+//     }
+// }
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         HashMap<Integer,String> students=new HashMap<>();
+//         students.put(101, "Ganesh");
+//         students.put(102, "Java");
+//         students.put(103, "Python");
+//         System.out.println(students.get(101));
+//         System.out.println(students.get(102));
+//         System.out.println(students.get(103));
 //     }
 // }
