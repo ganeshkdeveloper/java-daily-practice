@@ -15,6 +15,10 @@ package Day26;
 //     }
 // }
 
+import java.io.File;
+import java.io.FileWriter;
+import java.util.Scanner;
+
 // import java.util.ArrayList;
 // import java.util.HashMap;
 
@@ -133,5 +137,78 @@ package Day26;
 //         System.out.println(students.get(101));
 //         System.out.println(students.get(102));
 //         System.out.println(students.get(103));
+//     }
+// }
+// public class Main {
+
+    
+//     public static void main(String[] args) {
+//         try {
+//             File f=new File("demo.txt");
+//             if(f.createNewFile()){
+//                   System.out.println("File created");
+//             }else{
+//                   System.out.println("File already exists");
+//             }
+//         } catch (Exception e) {
+//            System.out.println(e);
+//         }
+//     }
+// }
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         try {
+//             FileWriter fw=new FileWriter("demo.txt");
+//             fw.write("Hello Ganesh");
+//             fw.close();
+
+//             System.out.println("Data written");
+//         } catch (Exception e) {
+//           System.out.println(e);
+//         }
+//     }
+// }
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         try {
+//             FileWriter fw=new FileWriter("demo.txt",true);
+//             fw.write("\nJava JDBC");
+//             fw.close();
+//             System.out.println("Data Appended");
+//         } catch (Exception e) {
+//              System.out.println(e);
+//         }
+//     }
+// }
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         try {
+//             File f=new File("demo.txt");
+//             Scanner sc=new Scanner(f);
+//             while (sc.hasNextLine()) {
+//                 System.out.println(sc.nextLine());
+//             }
+//             sc.close();
+//         } catch (Exception e) {
+//             System.out.println(e);
+//         }
+//     }
+// }
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         File f=new File("demo.txt");
+//         if(f.delete()){
+//             System.out.println("File deleted");
+//         }else{
+//             System.out.println("File not Found");
+//         }
 //     }
 // }
