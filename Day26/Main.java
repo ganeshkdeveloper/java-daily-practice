@@ -55,21 +55,22 @@ package Day26;
 //         System.out.println(s.getName());
 //     }
 // }
-class Animal{
-    void sound(){
-         System.out.println("Animal makes sound");
-    }
-}
-class Dog extends Animal{
-    @Override
-    void sound(){
-        System.out.println("Dog Barks");
-    }
-}
-public class Main {
+// class Animal{
+//     void sound(){
+//          System.out.println("Animal makes sound");
+//     }
+// }
+// class Dog extends Animal{
+//     @Override
+//     void sound(){
+//         System.out.println("Dog Barks");
+//     }
+// }
+// public class Main {
 
-    public static void main(String[] args) {
-        Dog d=new Dog();
-        d.sound();
-    }
-}
+//     public static void main(String[] args) {
+//         Dog d=new Dog();
+//         d.sound();
+//     }
+// }
+
