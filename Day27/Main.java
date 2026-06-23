@@ -59,4 +59,4 @@ public class Main {
     public static void main(String[] args) {
         int[] arr = {2, 5, 8, 1, 3, 10};
         System.out.println(countNumbersLessThanFive(arr));
-    }
+    }}
