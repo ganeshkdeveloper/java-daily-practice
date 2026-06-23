@@ -14,3 +14,19 @@ package Day27;
 //         System.out.println(countNumbersLessThanFive(arr));
 //     }
 // }
+public class Main {
+static int countNumbersEqualToZero(int[] arr){
+int count=0;
+for(int num:arr){
+    if(num==0){
+        count++;
+    }
+}
+return count;
+}
+    public static void main(String[] args) {
+        
+        int[] arr = {0, 5, 0, 8, 10, 0};
+        System.out.println(countNumbersEqualToZero(arr));
+    }
+}
