@@ -54,18 +54,18 @@ package Day28;
     //         System.out.println(isPrime(17));
     //     }
     // }
-    public class Main {
-    static int findMax(int[] arr){
-        int max=arr[0];
-        for(int num:arr){
-            if(num>max){
-                max=num;
-            }
-        }
-        return max;
-    }
-        public static void main(String[] args) {
-            int[] arr = {5, 2, 9, 1, 7};
-        System.out.println(findMax(arr));
-        }
-    }
+    // public class Main {
+    // static int findMax(int[] arr){
+    //     int max=arr[0];
+    //     for(int num:arr){
+    //         if(num>max){
+    //             max=num;
+    //         }
+    //     }
+    //     return max;
+    // }
+    //     public static void main(String[] args) {
+    //         int[] arr = {5, 2, 9, 1, 7};
+    //     System.out.println(findMax(arr));
+    //     }
+    // }
