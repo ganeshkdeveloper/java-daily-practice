@@ -31,3 +31,13 @@ package Day28;
     //         System.out.println(countNumbersEqualToThree(arr));
     //     }
     // }
+
+    public class Main {
+        static String reverse(String str){
+            StringBuilder sb=new StringBuilder(str);
+            return sb.reverse().toString();
+        }
+        public static void main(String[] args) {
+              System.out.println(reverse("hello"));
+        }
+    }
