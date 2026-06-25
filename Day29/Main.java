@@ -1,7 +1,7 @@
 
 package Day29;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // public class Main {
 //     static int countNumbersEqualToEight(int[] arr){
@@ -61,3 +61,11 @@ import java.util.Scanner;
 //         sc.close();
 //     }
 // }
+public class Main {
+
+    public static void main(String[] args) {
+        for (int i=1; i<=10; i++){
+            System.out.println(i);
+        }
+    }
+}
