@@ -30,18 +30,18 @@ package Day29;
 //         System.out.println(countNumbersDivisibleByFour(arr));
 //     }
 // }
-public class Main {
-    static int sumNumbersGreaterThanTen(int[] arr){
-        int sum=0;
-        for(int num:arr){
-            if(num>10){
-                sum+=num;
-            }
-        }
-        return sum;
-    }
-    public static void main(String[] args) {
-        int[] arr = {5, 12, 8, 15, 20};
-        System.out.println(sumNumbersGreaterThanTen(arr));
-    }
-}
+// public class Main {
+//     static int sumNumbersGreaterThanTen(int[] arr){
+//         int sum=0;
+//         for(int num:arr){
+//             if(num>10){
+//                 sum+=num;
+//             }
+//         }
+//         return sum;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {5, 12, 8, 15, 20};
+//         System.out.println(sumNumbersGreaterThanTen(arr));
+//     }
+// }
