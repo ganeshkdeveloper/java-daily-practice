@@ -1,5 +1,8 @@
 
 package Day29;
+
+import java.util.Scanner;
+
 // public class Main {
 //     static int countNumbersEqualToEight(int[] arr){
 //         int count=0;
@@ -45,3 +48,16 @@ package Day29;
 //         System.out.println(sumNumbersGreaterThanTen(arr));
 //     }
 // }
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int num=sc.nextInt();
+        if(num%2==0){
+            System.out.println("Even");
+        }else{
+            System.out.println("Odd");
+        }
+        sc.close();
+    }
+}
