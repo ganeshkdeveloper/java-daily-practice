@@ -15,18 +15,18 @@ package Day29;
 //         System.out.println(countNumbersEqualToEight(arr));
 //     }
 // }
-public class Main {
-    static int countNumbersDivisibleByFour(int[] arr){
-        int count=0;
-        for(int num:arr){
-            if (num%4==0){
-                count++;
-            }
-        }
-        return count;
-    }
-    public static void main(String[] args) {
-        int[] arr = {4, 7, 8, 12, 15, 16};
-        System.out.println(countNumbersDivisibleByFour(arr));
-    }
-}
+// public class Main {
+//     static int countNumbersDivisibleByFour(int[] arr){
+//         int count=0;
+//         for(int num:arr){
+//             if (num%4==0){
+//                 count++;
+//             }
+//         }
+//         return count;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {4, 7, 8, 12, 15, 16};
+//         System.out.println(countNumbersDivisibleByFour(arr));
+//     }
+// }
