@@ -29,3 +29,18 @@ package Day30;
 //         System.out.println(sumEvenNumbersGreaterThanTen(arr));
 //     }
 // }
+public class Main {
+static int countOddNumbersLessThanTen(int[] arr){
+    int count=0;
+    for(int num:arr){
+        if(num%2!=0 && num<10){
+            count++;
+        }
+    }
+    return count;
+}
+    public static void main(String[] args) {
+        int[] arr = {3, 12, 7, 14, 9, 20, 11};
+        System.out.println(countOddNumbersLessThanTen(arr));
+    }
+}
