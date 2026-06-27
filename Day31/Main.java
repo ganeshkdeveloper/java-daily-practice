@@ -33,22 +33,22 @@ package Day31;
 /**
  * Main
  */
-public class Main {
-    static int findSecondLargest(int[] arr){
-        int largest=arr[0];
-        int SecondLargest=arr[0];
-        for(int num:arr){
-            if(num>largest){
-                SecondLargest=largest;
-                largest=num;
-            }else if(num>SecondLargest&&num!=largest){
-                SecondLargest=num;
-            }
-        }
-        return SecondLargest;
-    }
-    public static void main(String[] args) {
-        int[] arr = {8, 3, 12, 1, 6, 10};
-        System.out.println(findSecondLargest(arr));
-    }
-}
+// public class Main {
+//     static int findSecondLargest(int[] arr){
+//         int largest=arr[0];
+//         int SecondLargest=arr[0];
+//         for(int num:arr){
+//             if(num>largest){
+//                 SecondLargest=largest;
+//                 largest=num;
+//             }else if(num>SecondLargest&&num!=largest){
+//                 SecondLargest=num;
+//             }
+//         }
+//         return SecondLargest;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {8, 3, 12, 1, 6, 10};
+//         System.out.println(findSecondLargest(arr));
+//     }
+// }
