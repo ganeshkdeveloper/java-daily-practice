@@ -55,22 +55,22 @@ package Day31;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    static int findFirstEven(int[] arr) {
+//     static int findFirstEven(int[] arr) {
 
-        for(int num:arr){
-            if(num%2==0){
-                return num;
-            }
-        }
-        return -1;
-    }
+//         for(int num:arr){
+//             if(num%2==0){
+//                 return num;
+//             }
+//         }
+//         return -1;
+//     }
 
-    public static void main(String[] args) {
+//     public static void main(String[] args) {
 
-        int[] arr = {7, 9, 12, 5, 18};
+//         int[] arr = {7, 9, 12, 5, 18};
 
-        System.out.println(findFirstEven(arr));
-    }
-}
+//         System.out.println(findFirstEven(arr));
+//     }
+// }
