@@ -52,3 +52,25 @@ package Day31;
 //         System.out.println(findSecondLargest(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    static int findFirstEven(int[] arr) {
+
+        for(int num:arr){
+            if(num%2==0){
+                return num;
+            }
+        }
+        return -1;
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {7, 9, 12, 5, 18};
+
+        System.out.println(findFirstEven(arr));
+    }
+}
