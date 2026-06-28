@@ -27,18 +27,18 @@ package Day32;
 /**
  * Main
  */
-public class Main {
-    static int findLastPositive(int[] arr){
-        int lastPositive=-1;
-        for(int num:arr){
-            if(num>0){
-                lastPositive=num;
-            }
-        }
-        return lastPositive;
-    }
-    public static void main(String[] args) {
-        int[] arr = {-5, -2, 0, 7, 10, -3};
-        System.out.println(findLastPositive(arr));
-    }
-}
+// public class Main {
+//     static int findLastPositive(int[] arr){
+//         int lastPositive=-1;
+//         for(int num:arr){
+//             if(num>0){
+//                 lastPositive=num;
+//             }
+//         }
+//         return lastPositive;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {-5, -2, 0, 7, 10, -3};
+//         System.out.println(findLastPositive(arr));
+//     }
+// }
