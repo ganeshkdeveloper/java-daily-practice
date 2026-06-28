@@ -42,3 +42,23 @@ package Day32;
 //         System.out.println(findLastPositive(arr));
 //     }
 // }
+
+public class Main{
+    static int findLastIndex(int[] arr, int target){
+        int lastIndex=-1;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==target){
+                lastIndex=target;
+            }
+        }
+        return lastIndex;
+    }
+    public static void main(String[] args){
+        int[] arr = {5, 8, 12, 8, 3, 8};
+
+        System.out.println(findLastIndex(arr, 8));
+        System.out.println(findLastIndex(arr, 20));
+    }
+}
+
+
