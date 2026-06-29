@@ -50,9 +50,9 @@ package Day33;
  */
 // public class Main {
 //     static int findLargestEvenNumber(int[] arr){
-//         int LargestEvenNumber=arr[0];
+//         int LargestEvenNumber=-1;
 //         for(int i=0;i<arr.length;i++){
-//             if(arr[i]%2==0&&arr[i]>arr[0]){
+//             if(arr[i]%2==0&&arr[i]>LargestEvenNumber){
 //                 LargestEvenNumber=arr[i];
 //             }
 //         }
