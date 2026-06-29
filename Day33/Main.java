@@ -66,10 +66,10 @@ package Day33;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        String name="Ganesan";
-        System.out.println(name);
-    }
-}
+//     public static void main(String[] args) {
+//         String name="Ganesan";
+//         System.out.println(name);
+//     }
+// }
