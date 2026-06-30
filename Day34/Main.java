@@ -20,21 +20,21 @@ package Day34;
 /**
  * Main
  */
-public class Main {
-    static int findSmallestEvenGreaterThanTen(int[] arr){
-        int minEven=Integer.MAX_VALUE;
-        for(int num:arr){
-            if(num%2==0&&num>10&&num<minEven){
-                minEven=num;
-            }
-        }
-          if (minEven == Integer.MAX_VALUE) {
-            return -1;
-          }
-        return minEven;
-    }
-    public static void main(String[] args) {
-        int[] arr = {5, 18, 22, 9, 14, 30, 7};
-        System.out.println(findSmallestEvenGreaterThanTen(arr));
-    }
-}
+// public class Main {
+//     static int findSmallestEvenGreaterThanTen(int[] arr){
+//         int minEven=Integer.MAX_VALUE;
+//         for(int num:arr){
+//             if(num%2==0&&num>10&&num<minEven){
+//                 minEven=num;
+//             }
+//         }
+//           if (minEven == Integer.MAX_VALUE) {
+//             return -1;
+//           }
+//         return minEven;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {5, 18, 22, 9, 14, 30, 7};
+//         System.out.println(findSmallestEvenGreaterThanTen(arr));
+//     }
+// }
