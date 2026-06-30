@@ -48,3 +48,13 @@ package Day34;
 //         System.out.println(num);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        String name="Ganesan";
+        System.out.println(name);
+    }
+}
