@@ -38,3 +38,13 @@ package Day34;
 //         System.out.println(findSmallestEvenGreaterThanTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int num=10;
+        System.out.println(num);
+    }
+}
