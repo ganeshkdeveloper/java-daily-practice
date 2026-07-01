@@ -32,3 +32,14 @@ package Day3517;
 //         System.out.println(findFirstOddGreaterThanTwenty(arr));
 //     }
 // }
+
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int num=20;
+        System.out.println(num);
+    }
+}
