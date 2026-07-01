@@ -43,3 +43,15 @@ package Day3517;
 //         System.out.println(num);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        String name="Ganesan";
+        int age=26;
+        System.out.println(name);
+        System.out.println(age);
+    }
+}
