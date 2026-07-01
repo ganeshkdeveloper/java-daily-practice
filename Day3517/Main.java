@@ -46,12 +46,12 @@ package Day3517;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        String name="Ganesan";
-        int age=26;
-        System.out.println(name);
-        System.out.println(age);
-    }
-}
+//     public static void main(String[] args) {
+//         String name="Ganesan";
+//         int age=26;
+//         System.out.println(name);
+//         System.out.println(age);
+//     }
+// }
