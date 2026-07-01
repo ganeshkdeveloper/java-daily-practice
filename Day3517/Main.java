@@ -18,17 +18,17 @@ package Day3517;
 /**
  * Main
  */
-public class Main {
-    static int findFirstOddGreaterThanTwenty(int[] arr){
-        for(int num:arr){
-            if(num>20&&num%2!=0){
-                return num;
-            }
-        }
-        return -1;
-    }
-    public static void main(String[] args) {
-        int[] arr = {10, 18, 21, 25, 30, 35};
-        System.out.println(findFirstOddGreaterThanTwenty(arr));
-    }
-}
+// public class Main {
+//     static int findFirstOddGreaterThanTwenty(int[] arr){
+//         for(int num:arr){
+//             if(num>20&&num%2!=0){
+//                 return num;
+//             }
+//         }
+//         return -1;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {10, 18, 21, 25, 30, 35};
+//         System.out.println(findFirstOddGreaterThanTwenty(arr));
+//     }
+// }
