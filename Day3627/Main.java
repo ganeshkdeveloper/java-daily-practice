@@ -69,3 +69,21 @@ package Day3627;
 //         System.out.println(findLargestPositiveOddLessThanFifty(arr));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+//     static int findSmallestPositiveEvenGreaterThanTwenty(int[] arr){
+        
+//         for(int num:arr){
+//             if(num>0&&num>20&&num%2==0){
+//                return num;
+//             }
+//         }
+//         return -1;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {-4, 22, 30, 18, 24, 40};
+//         System.out.println(findSmallestPositiveEvenGreaterThanTwenty(arr));
+//     }
+// }
