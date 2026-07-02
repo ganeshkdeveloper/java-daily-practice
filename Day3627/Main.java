@@ -51,3 +51,21 @@ package Day3627;
 //         System.out.println(findLastNegativeGreaterThanMinusTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+        static int findLargestPositiveOddLessThanFifty(int[] arr){
+            int largestPostive=-1;
+            for(int num:arr){
+                if(num%2!=0&&num<50&&num>0&&num>largestPostive){
+                    largestPostive=num;;
+                }
+            }
+            return largestPostive;
+        }
+    public static void main(String[] args) {
+        int[] arr = {-5, 21, 48, 35, 51, 49, 18};
+        System.out.println(findLargestPositiveOddLessThanFifty(arr));
+    }
+}
