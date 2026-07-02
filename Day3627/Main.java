@@ -33,3 +33,21 @@ package Day3627;
 //         System.out.println(findFirstPositiveEvenGreaterThanTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+        static int findLastNegativeGreaterThanMinusTen(int[] arr){
+            int lastNegative=Integer.MIN_VALUE;
+            for(int num:arr){
+                if(num>-10){
+                    lastNegative=num;
+                }
+            }
+            return lastNegative;
+        }
+    public static void main(String[] args) {
+        int[] arr = {-15, -8, -12, -3, 5, -1};
+        System.out.println(findLastNegativeGreaterThanMinusTen(arr));
+    }
+}
