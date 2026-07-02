@@ -111,3 +111,24 @@ package Day3627;
 //         System.out.println(findLargestNegativeNumber(arr));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+//     static int findSmallestPositiveNumber(int[]arr){
+//         int smallest=Integer.MAX_VALUE;
+//         for(int num:arr){
+//             if(num>0&&num<smallest){
+//                 smallest=num;
+//             }
+//         }
+//        if(smallest==Integer.MAX_VALUE){
+//         return -1;
+//        }
+//         return smallest;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr = {-5, 12, 3, 18, 7, -2};
+//         System.out.println(findSmallestPositiveNumber(arr));
+//     }
+// }
