@@ -87,3 +87,27 @@ package Day3627;
 //         System.out.println(findSmallestPositiveEvenGreaterThanTwenty(arr));
 //     }
 // }
+// public class Main {
+
+//     static int findLargestNegativeNumber(int[] arr) {
+
+//         int largest=Integer.MIN_VALUE;
+//         for(int num:arr){
+//             if(num<0&&num>largest){
+//                 largest=num;
+//             }
+//         }
+//         if(largest==Integer.MIN_VALUE){
+//             return -1;
+//         }
+//         return largest;
+
+//     }
+
+//     public static void main(String[] args) {
+
+//         int[] arr = {-15, -8, 12, -3, 5, -10};
+
+//         System.out.println(findLargestNegativeNumber(arr));
+//     }
+// }
