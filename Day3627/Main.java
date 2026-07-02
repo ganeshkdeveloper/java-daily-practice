@@ -40,7 +40,7 @@ public class Main {
         static int findLastNegativeGreaterThanMinusTen(int[] arr){
             int lastNegative=Integer.MIN_VALUE;
             for(int num:arr){
-                if(num>-10){
+                if(num<0&&num>-10){
                     lastNegative=num;
                 }
             }
