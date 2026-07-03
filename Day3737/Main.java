@@ -14,3 +14,25 @@ package Day3737;
 //         System.out.println(countPositiveOddNumbersGreaterThanTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findSmallestPositiveEvenNumber(int[] arr){
+        int smallest=Integer.MAX_VALUE;
+        for(int num:arr){
+            if(num>0&&num%2==0&&num<smallest){
+                smallest=num;
+            }
+        }
+        if(smallest==Integer.MAX_VALUE){
+            return -1;
+        }
+        return smallest;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {-4, 18, 7, 12, 3, 20, 6};
+        System.out.println(findSmallestPositiveEvenNumber(arr));
+    }
+}
