@@ -39,18 +39,18 @@ package Day3737;
 /**
  * Main
  */
-public class Main {
-        static int sumPositiveEvenNumbersLessThanThirty(int[] arr){
-            int sum=0;
-            for(int num:arr){
-                if(num>0&&num%2==0&&num<30){
-                    sum+=num;
-                }
-            }
-            return sum;
-        }
-    public static void main(String[] args) {
-        int[] arr = {-4, 18, 7, 12, 35, 20, 6};
-        System.out.println(sumPositiveEvenNumbersLessThanThirty(arr));
-    }
-}
+// public class Main {
+//         static int sumPositiveEvenNumbersLessThanThirty(int[] arr){
+//             int sum=0;
+//             for(int num:arr){
+//                 if(num>0&&num%2==0&&num<30){
+//                     sum+=num;
+//                 }
+//             }
+//             return sum;
+//         }
+//     public static void main(String[] args) {
+//         int[] arr = {-4, 18, 7, 12, 35, 20, 6};
+//         System.out.println(sumPositiveEvenNumbersLessThanThirty(arr));
+//     }
+// }
