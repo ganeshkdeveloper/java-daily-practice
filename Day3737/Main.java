@@ -54,3 +54,14 @@ package Day3737;
 //         System.out.println(sumPositiveEvenNumbersLessThanThirty(arr));
 //     }
 // }
+
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int num=5;
+        System.out.println(num);
+    }
+}
