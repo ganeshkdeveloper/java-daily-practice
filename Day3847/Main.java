@@ -37,3 +37,13 @@ package Day3847;
 //         System.out.println(name);
 //     }
 // }
+
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Java!");
+    }
+}
