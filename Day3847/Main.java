@@ -9,10 +9,10 @@ package Day3847;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        String str="Ganesh";
-        System.out.println(str);
-    }
-}
+//     public static void main(String[] args) {
+//         String str="Ganesh";
+//         System.out.println(str);
+//     }
+// }
