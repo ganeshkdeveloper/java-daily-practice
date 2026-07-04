@@ -6,3 +6,13 @@ package Day3847;
 //         System.out.println(num);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        String str="Ganesh";
+        System.out.println(str);
+    }
+}
