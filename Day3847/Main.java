@@ -27,3 +27,13 @@ package Day3847;
 //         System.out.println(num1+num2);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        String name="Ganga";
+        System.out.println(name);
+    }
+}
