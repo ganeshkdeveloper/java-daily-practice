@@ -67,3 +67,12 @@ package Day3957;
 //         sc.close();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Next project done");
+    }
+}
