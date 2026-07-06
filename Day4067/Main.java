@@ -36,17 +36,17 @@ package Day4067;
     /**
      * Main
      */
-    public class Main {
-        static int findFirstNegativeEvenLessThanMinusTen(int[] arr){
-            for(int num:arr){
-                if(num%2==0&&num<0&&num<-10){
-                    return num;
-                }
-            }
-            return -1;
-        }
-        public static void main(String[] args) {
-            int[] arr={-5, -8, -12, -15, -18, 20};
-            System.out.println(findFirstNegativeEvenLessThanMinusTen(arr));
-        }
-    }
+    // public class Main {
+    //     static int findFirstNegativeEvenLessThanMinusTen(int[] arr){
+    //         for(int num:arr){
+    //             if(num%2==0&&num<0&&num<-10){
+    //                 return num;
+    //             }
+    //         }
+    //         return -1;
+    //     }
+    //     public static void main(String[] args) {
+    //         int[] arr={-5, -8, -12, -15, -18, 20};
+    //         System.out.println(findFirstNegativeEvenLessThanMinusTen(arr));
+    //     }
+    // }
