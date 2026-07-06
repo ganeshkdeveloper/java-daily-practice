@@ -50,3 +50,4 @@ package Day4067;
     //         System.out.println(findFirstNegativeEvenLessThanMinusTen(arr));
     //     }
     // }
+    
