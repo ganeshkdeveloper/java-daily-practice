@@ -40,3 +40,34 @@ package Day4177;
 //         System.out.println(findSmallestNegativeOddGreaterThanMinusTwenty(arr));
 //     }
 // }
+/**
+ * Main
+ */
+/**
+ * Main
+ */
+public class Main {
+    static int findSecondSmallestPositiveEvenNumber(int[] arr){
+        int smallest=Integer.MAX_VALUE;
+        int secondSmallest=Integer.MAX_VALUE;
+        for(int num:arr){
+            if(num%2==0&&num>0){
+                if(num<smallest){
+                    secondSmallest=smallest;
+                    smallest=num;
+                }
+                else if(num<secondSmallest&&num!=smallest){
+                    secondSmallest=num;
+                }
+            }
+        }
+        if(secondSmallest==Integer.MAX_VALUE){
+            return -1;
+        }
+        return secondSmallest;
+    }
+    public static void main(String[] args) {
+        int[] arr={12, 8, 20, 6, 18, 10};
+        System.out.println(findSecondSmallestPositiveEvenNumber(arr));
+    }
+}
