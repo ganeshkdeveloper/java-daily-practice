@@ -8,6 +8,9 @@ public class Main {
                 largest=num;
             }
         }
+        if (largest == Integer.MIN_VALUE) {
+    return -1;
+}
         return largest;
     }
     public static void main(String[] args) {
