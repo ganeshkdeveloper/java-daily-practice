@@ -35,3 +35,21 @@ package Day4287;
 //         System.out.println(findFirstPositiveOddLessThanTwenty(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findLastPositiveEvenLessThanThirty(int[] arr){
+        int last=-1;
+        for(int num:arr){
+            if(num>0&&num%2==0&&num<30){
+                last=num;
+            }
+        }
+        return last;
+    }
+    public static void main(String[] args) {
+        int[] arr={32, 18, 25, 28, 15, 12, 40};
+        System.out.println(findLastPositiveEvenLessThanThirty(arr));
+    }
+}
