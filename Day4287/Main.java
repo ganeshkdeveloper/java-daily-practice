@@ -21,17 +21,17 @@ package Day4287;
 /**
  * Main
  */
-public class Main {
-    static int findFirstPositiveOddLessThanTwenty(int[] arr){
-        for(int num:arr){
-            if(num>0&&num%2!=0&&num<20){
-                return num;
-            }
-        }
-        return -1;
-    }
-    public static void main(String[] args) {
-        int[] arr={-5, 22, 21, 17, 8, 19};
-        System.out.println(findFirstPositiveOddLessThanTwenty(arr));
-    }
-}
+// public class Main {
+//     static int findFirstPositiveOddLessThanTwenty(int[] arr){
+//         for(int num:arr){
+//             if(num>0&&num%2!=0&&num<20){
+//                 return num;
+//             }
+//         }
+//         return -1;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={-5, 22, 21, 17, 8, 19};
+//         System.out.println(findFirstPositiveOddLessThanTwenty(arr));
+//     }
+// }
