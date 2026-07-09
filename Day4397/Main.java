@@ -56,27 +56,27 @@ package Day4397;
 /**
  * Main
  */
-public class Main {
-    static int findSecondLargestPositiveOddNumber(int[] arr){
-        int firstLargest=Integer.MIN_VALUE;
-        int secondLargest=Integer.MIN_VALUE;
-        for(int num:arr){
-            if(num>0&&num%2!=0){
-                if(num>firstLargest){
-                    secondLargest=firstLargest;
-                    firstLargest=num;
-                }else if(num>secondLargest&&num!=firstLargest){
-                    secondLargest=num;
-                }
-            }
-        }
-        if(secondLargest==Integer.MIN_VALUE){
-            return -1;
-        }
-        return secondLargest;
-    }
-    public static void main(String[] args) {
-        int[] arr={21, 9, 35, 17, 42, 29};
-        System.out.println(findSecondLargestPositiveOddNumber(arr));
-    }
-}
+// public class Main {
+//     static int findSecondLargestPositiveOddNumber(int[] arr){
+//         int firstLargest=Integer.MIN_VALUE;
+//         int secondLargest=Integer.MIN_VALUE;
+//         for(int num:arr){
+//             if(num>0&&num%2!=0){
+//                 if(num>firstLargest){
+//                     secondLargest=firstLargest;
+//                     firstLargest=num;
+//                 }else if(num>secondLargest&&num!=firstLargest){
+//                     secondLargest=num;
+//                 }
+//             }
+//         }
+//         if(secondLargest==Integer.MIN_VALUE){
+//             return -1;
+//         }
+//         return secondLargest;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={21, 9, 35, 17, 42, 29};
+//         System.out.println(findSecondLargestPositiveOddNumber(arr));
+//     }
+// }
