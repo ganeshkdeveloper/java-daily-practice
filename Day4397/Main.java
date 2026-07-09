@@ -27,29 +27,29 @@ package Day4397;
 /**
  * Main
  */
-public class Main {
-    static int findSecondSmallestNegativeOddNumber(int[] arr){
-        int firstSmallest=Integer.MAX_VALUE;
-        int secondSmallest=Integer.MAX_VALUE;
-        for(int num:arr){
-            if(num%2!=0&&num<0){
-                if(num<firstSmallest){
-                    secondSmallest=firstSmallest;
-                    firstSmallest=num;
-            }else if(num<secondSmallest&&num!=firstSmallest){
-                secondSmallest=num;
-            }
+// public class Main {
+//     static int findSecondSmallestNegativeOddNumber(int[] arr){
+//         int firstSmallest=Integer.MAX_VALUE;
+//         int secondSmallest=Integer.MAX_VALUE;
+//         for(int num:arr){
+//             if(num%2!=0&&num<0){
+//                 if(num<firstSmallest){
+//                     secondSmallest=firstSmallest;
+//                     firstSmallest=num;
+//             }else if(num<secondSmallest&&num!=firstSmallest){
+//                 secondSmallest=num;
+//             }
             
-            }
+//             }
             
-        }
-        if(secondSmallest==Integer.MAX_VALUE){
-                return -1;
-            }
-        return secondSmallest;
-    }
-    public static void main(String[] args) {
-        int[] arr={-11, -5, -17, -9, 8, -3};
-        System.out.println(findSecondSmallestNegativeOddNumber(arr));
-    }
-}
+//         }
+//         if(secondSmallest==Integer.MAX_VALUE){
+//                 return -1;
+//             }
+//         return secondSmallest;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={-11, -5, -17, -9, 8, -3};
+//         System.out.println(findSecondSmallestNegativeOddNumber(arr));
+//     }
+// }
