@@ -12,7 +12,9 @@ package Day4397;
 //                     secondLargest=num;
 //                 }
 //             }
-           
+
+import java.util.Scanner;
+
 //             }
 //              if(secondLargest==Integer.MIN_VALUE){
 //                 return -1;
@@ -80,3 +82,18 @@ package Day4397;
 //         System.out.println(findSecondLargestPositiveOddNumber(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter number 1: ");
+        int num1 = sc.nextInt();
+        System.out.println("Enter number 2: ");
+        int num2 = sc.nextInt();
+        System.out.println("value is :"+(num1+num2));
+        sc.close();
+    }
+}
