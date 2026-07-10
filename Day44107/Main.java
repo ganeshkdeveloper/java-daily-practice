@@ -31,3 +31,21 @@ package Day44107;
 //         System.out.println(findSmallestPositiveOddGreaterThanTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findLastPositiveOddGreaterThanTwenty(int[] arr){
+        int last=-1;
+        for(int num:arr){
+            if(num>0&&num%2!=0&&num>20){
+                last=num;
+            }
+        }
+        return last;
+    }
+    public static void main(String[] args) {
+        int[] arr={};
+        System.out.println( findLastPositiveOddGreaterThanTwenty(arr));
+    }
+}
