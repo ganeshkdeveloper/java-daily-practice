@@ -34,18 +34,18 @@ package Day44107;
 /**
  * Main
  */
-public class Main {
-    static int findLastPositiveOddGreaterThanTwenty(int[] arr){
-        int last=-1;
-        for(int num:arr){
-            if(num>0&&num%2!=0&&num>20){
-                last=num;
-            }
-        }
-        return last;
-    }
-    public static void main(String[] args) {
-        int[] arr={15, 21, 18, 25, 30, 35, 19};
-        System.out.println( findLastPositiveOddGreaterThanTwenty(arr));
-    }
-}
+// public class Main {
+//     static int findLastPositiveOddGreaterThanTwenty(int[] arr){
+//         int last=-1;
+//         for(int num:arr){
+//             if(num>0&&num%2!=0&&num>20){
+//                 last=num;
+//             }
+//         }
+//         return last;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={15, 21, 18, 25, 30, 35, 19};
+//         System.out.println( findLastPositiveOddGreaterThanTwenty(arr));
+//     }
+// }
