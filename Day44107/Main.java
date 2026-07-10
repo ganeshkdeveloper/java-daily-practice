@@ -52,18 +52,18 @@ package Day44107;
 /**
  * Main
  */
-public class Main {
-    static int findSmallestPositiveEvenGreaterThanTwenty(int[] arr){
-        int samllest=Integer.MAX_VALUE;
-        for(int num:arr){
-            if(num%2==0&&num>20&&num<samllest){
-                samllest=num;
-            }
-        }
-        return (samllest==Integer.MAX_VALUE?-1:samllest);
-    }
-    public static void main(String[] args) {
-        int[] arr={18, 24, 30, 22, 15, 26};
-        System.out.println(findSmallestPositiveEvenGreaterThanTwenty(arr));
-    }
-}
+// public class Main {
+//     static int findSmallestPositiveEvenGreaterThanTwenty(int[] arr){
+//         int samllest=Integer.MAX_VALUE;
+//         for(int num:arr){
+//             if(num%2==0&&num>20&&num<samllest){
+//                 samllest=num;
+//             }
+//         }
+//         return (samllest==Integer.MAX_VALUE?-1:samllest);
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={18, 24, 30, 22, 15, 26};
+//         System.out.println(findSmallestPositiveEvenGreaterThanTwenty(arr));
+//     }
+// }
