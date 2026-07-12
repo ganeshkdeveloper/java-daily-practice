@@ -16,9 +16,9 @@ package Day45127;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("..ecchh");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("..ecchh");
+//     }
+// }
