@@ -31,3 +31,12 @@ package Day45127;
 //         System.out.println("dont beleive");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("oops");
+    }
+}
