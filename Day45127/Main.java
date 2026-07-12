@@ -40,3 +40,12 @@ package Day45127;
 //      System.out.println("oops");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("rough uchc ooouch");
+    }
+}
