@@ -24,3 +24,12 @@ package Day46137;
 //         System.out.println("Solvec");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World to real Applications");
+    }
+}
