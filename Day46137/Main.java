@@ -53,21 +53,21 @@ package Day46137;
 /**
  * Main
  */
-public class Main {
-    static int findIndexOfLargestPositiveEvenNumber(int[] arr){
-        int largest=Integer.MIN_VALUE;
-        int index=-1;
+// public class Main {
+//     static int findIndexOfLargestPositiveEvenNumber(int[] arr){
+//         int largest=Integer.MIN_VALUE;
+//         int index=-1;
 
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]%2==0&&arr[i]>0&&arr[i]>largest){
-                largest=arr[i];
-                index=i;
-            }
-        }
-        return index;
-    }
-    public static void main(String[] args) {
-        int[] arr={11, 24, 18, 30, 25, 28};
-        System.out.println(findIndexOfLargestPositiveEvenNumber(arr));
-    }
-}
+//         for(int i=0;i<arr.length;i++){
+//             if(arr[i]%2==0&&arr[i]>0&&arr[i]>largest){
+//                 largest=arr[i];
+//                 index=i;
+//             }
+//         }
+//         return index;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={11, 24, 18, 30, 25, 28};
+//         System.out.println(findIndexOfLargestPositiveEvenNumber(arr));
+//     }
+// }
