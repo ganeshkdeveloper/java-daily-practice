@@ -18,9 +18,9 @@ package Day46137;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Solvec");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Solvec");
+//     }
+// }
