@@ -85,9 +85,9 @@ package Day47147;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-     public static void main(String[] args) {
-        System.out.println("excellent");
-     }
-}
+//      public static void main(String[] args) {
+//         System.out.println("excellent");
+//      }
+// }
