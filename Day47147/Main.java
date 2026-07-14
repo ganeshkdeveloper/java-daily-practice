@@ -17,20 +17,20 @@ package Day47147;
 /**
  * Main
  */
-public class Main {
-    static int findIndexOfSmallestNegativeOddNumber(int[] arr){
-        int smallest=Integer.MAX_VALUE;
-        int index=-1;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]%2!=0&&arr[i]<smallest&&arr[i]<0){
-                smallest=arr[i];
-                index=i;
-            }
-        }
-        return index;
-    }
-    public static void main(String[] args) {
-        int[] arr={-7, -15, -3, -21, 10, -5};
-        System.out.println(findIndexOfSmallestNegativeOddNumber(arr));
-    }
-}
+// public class Main {
+//     static int findIndexOfSmallestNegativeOddNumber(int[] arr){
+//         int smallest=Integer.MAX_VALUE;
+//         int index=-1;
+//         for(int i=0;i<arr.length;i++){
+//             if(arr[i]%2!=0&&arr[i]<smallest&&arr[i]<0){
+//                 smallest=arr[i];
+//                 index=i;
+//             }
+//         }
+//         return index;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr={-7, -15, -3, -21, 10, -5};
+//         System.out.println(findIndexOfSmallestNegativeOddNumber(arr));
+//     }
+// }
