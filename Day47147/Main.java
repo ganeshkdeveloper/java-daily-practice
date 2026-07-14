@@ -1,4 +1,5 @@
 package Day47147;
+import java.util.*;
 // public class Main {
 //     static int countPositiveEvenNumbersGreaterThanTwenty(int[] arr){
 //         int count=0;
@@ -51,3 +52,33 @@ package Day47147;
 //         System.out.println( findIndexOfFirstPositiveOddGreaterThanThirty(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter Your Mail:");
+        String a=sc.nextLine();
+        System.out.println("Your Mail id is: "+a);
+        System.out.println("Are u Ready to Solve problem? (Yes/No)");
+        String b=sc.nextLine();
+        if ("yes".equalsIgnoreCase(b)){
+            System.out.println("2+2=?");
+            System.out.println("Type Your Answer:");
+            int c=sc.nextInt();
+
+            if(c==4){
+                System.out.println("Correct Answer");
+            }else{
+                System.out.println("Wrong Answer");
+            }
+        }else{
+            System.out.println("Thank You! Bye!");
+        }
+          
+        
+        sc.close();
+    }
+}
