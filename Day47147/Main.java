@@ -34,3 +34,20 @@ package Day47147;
 //         System.out.println(findIndexOfSmallestNegativeOddNumber(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findIndexOfFirstPositiveOddGreaterThanThirty(int[] arr){
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]%2!=0&&arr[i]>0&&arr[i]>30){
+                return i;
+            }
+        }
+        return -1;
+    }
+    public static void main(String[] args) {
+        int[] arr={18, 24, 35, 41, 28, 45};
+        System.out.println( findIndexOfFirstPositiveOddGreaterThanThirty(arr));
+    }
+}
