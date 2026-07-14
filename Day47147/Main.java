@@ -1,5 +1,5 @@
 package Day47147;
-import java.util.*;
+// import java.util.*;
 // public class Main {
 //     static int countPositiveEvenNumbersGreaterThanTwenty(int[] arr){
 //         int count=0;
@@ -81,4 +81,4 @@ import java.util.*;
         
 //         sc.close();
 //     }
-}
+// }
