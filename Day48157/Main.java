@@ -71,9 +71,9 @@ package Day48157;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Dont give up");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Dont give up");
+//     }
+// }
