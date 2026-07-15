@@ -34,3 +34,21 @@ package Day48157;
 //         System.out.println(findIndexOfSmallestPositiveEvenGreaterThanTen(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int countEvenNumbersWhoseIndexIsOdd(int[] arr){
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(i%2!=0&&arr[i]%2==0){
+                count++;
+            }
+        }
+        return count;
+    }
+    public static void main(String[] args) {
+        int[] arr={10, 15, 20, 8, 7, 12, 18};
+        System.out.println(countEvenNumbersWhoseIndexIsOdd(arr));
+    }
+}
