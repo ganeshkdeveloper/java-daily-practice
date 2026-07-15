@@ -1,4 +1,5 @@
 package Day48157;
+import java.util.*;
 // public class Main {
 //     static int findIndexOfLastNegativeEvenLessThanMinusTen(int[] arr){
 //         int index=-1;
@@ -52,3 +53,18 @@ package Day48157;
 //         System.out.println(countEvenNumbersWhoseIndexIsOdd(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+        System.err.println("Enter your name");
+        String name=sc.nextLine();
+        System.out.println("Your name is: "+name);
+        sc.close();
+
+    }
+}
