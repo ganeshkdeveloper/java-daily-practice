@@ -1,5 +1,7 @@
 package Day49167;
 
+import java.util.Scanner;
+
 // public class Main {
 //     static int sumPositiveOddNumbersWhoseIndexIsEven(int[] arr){
 //         int sum=0;
@@ -53,3 +55,34 @@ package Day49167;
 //         System.out.println(findEmployeeIndex(salaries));
 //      }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter Your Name");
+        String name=sc.nextLine();
+        System.out.println("Enter Your Age");
+        int age=sc.nextInt();
+        sc.nextLine(); 
+        System.out.println("Your Name is: "+name);
+        System.out.println("Your Age is: "+age);
+        System.out.println("Are u ready to solve Problem");
+        String ans=sc.nextLine();
+        if(ans.equalsIgnoreCase("yes")){
+            System.out.println("Solve This:-");
+            System.out.println("2+2");
+            int ans1=sc.nextInt();
+            if(ans1==4){
+                System.out.println("Correct Hurray! 🎉");
+            }else{
+                System.out.println("sry Wrong Better Luck Next Time");
+            }
+        }else{
+            System.out.println("Thank You Bye!");
+        }
+        sc.close();
+    }
+}
