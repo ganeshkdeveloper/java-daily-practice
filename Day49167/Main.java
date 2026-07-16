@@ -1,6 +1,6 @@
 package Day49167;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // public class Main {
 //     static int sumPositiveOddNumbersWhoseIndexIsEven(int[] arr){
