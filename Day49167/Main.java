@@ -36,20 +36,20 @@ package Day49167;
 /**
  * Main
  */
-public class Main {
-    static int findEmployeeIndex(int[] salaries){
-        int maxSalary=Integer.MIN_VALUE;
-        int index=-1;
-        for(int i=0;i<salaries.length;i++){
-            if(salaries[i]<50000&&salaries[i]>maxSalary){
-                maxSalary=salaries[i];
-                index=i;
-            }
-        }
-        return index;
-    }
-     public static void main(String[] args) {
-        int[] salaries={52000, 45000, 38000, 49000, 51000, 47000};
-        System.out.println(findEmployeeIndex(salaries));
-     }
-}
+// public class Main {
+//     static int findEmployeeIndex(int[] salaries){
+//         int maxSalary=Integer.MIN_VALUE;
+//         int index=-1;
+//         for(int i=0;i<salaries.length;i++){
+//             if(salaries[i]<50000&&salaries[i]>maxSalary){
+//                 maxSalary=salaries[i];
+//                 index=i;
+//             }
+//         }
+//         return index;
+//     }
+//      public static void main(String[] args) {
+//         int[] salaries={52000, 45000, 38000, 49000, 51000, 47000};
+//         System.out.println(findEmployeeIndex(salaries));
+//      }
+// }
