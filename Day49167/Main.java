@@ -15,3 +15,21 @@ package Day49167;
 //         System.out.println(sumPositiveOddNumbersWhoseIndexIsEven(arr));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findFirstStudentAboveEighty(int[] arr){
+   
+        for(int num:arr){
+            if(num>80){
+             return num;
+            }
+        }
+        return -1;
+    }
+    public static void main(String[] args) {
+        int[] arr={65, 72, 81, 90, 78, 95};
+        System.out.println(findFirstStudentAboveEighty(arr));
+    }
+}
