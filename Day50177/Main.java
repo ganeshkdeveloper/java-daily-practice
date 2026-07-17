@@ -56,9 +56,9 @@ package Day50177;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-     public static void main(String[] args) {
-        System.out.println("Well Done Ganesh Keep Coming!");
-     }
-}
+//      public static void main(String[] args) {
+//         System.out.println("Well Done Ganesh Keep Coming!");
+//      }
+// }
