@@ -18,20 +18,20 @@ package Day50177;
 /**
  * Main
  */
-public class Main {
-    static int findPatientIndex(int[] ages){
-        int youngest=Integer.MAX_VALUE;
-        int index=-1;
-        for(int i=0;i<ages.length;i++){
-            if(ages[i]>60&&ages[i]<youngest){
-                youngest=ages[i];
-                index=i;
-            }
-        }
-        return index;
-    }
-    public static void main(String[] args) {
-        int[] ages = {45, 62, 75, 61, 59, 68};
-        System.out.println(findPatientIndex(ages));
-    }
-}
+// public class Main {
+//     static int findPatientIndex(int[] ages){
+//         int youngest=Integer.MAX_VALUE;
+//         int index=-1;
+//         for(int i=0;i<ages.length;i++){
+//             if(ages[i]>60&&ages[i]<youngest){
+//                 youngest=ages[i];
+//                 index=i;
+//             }
+//         }
+//         return index;
+//     }
+//     public static void main(String[] args) {
+//         int[] ages = {45, 62, 75, 61, 59, 68};
+//         System.out.println(findPatientIndex(ages));
+//     }
+// }
