@@ -53,3 +53,12 @@ package Day50177;
 //         System.out.println(findLastEmployeeId(ids));
 //      }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+     public static void main(String[] args) {
+        System.out.println("Well Done Ganesh Keep Coming!");
+     }
+}
