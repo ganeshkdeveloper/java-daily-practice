@@ -38,18 +38,18 @@ package Day50177;
 /**
  * Main
  */
-public class Main {
-    static int findLastEmployeeId(int[] ids){
-        int lastId=-1;
-        for(int id:ids){
-            if(id>1000&&id%2==0){
-                lastId=id;
-            }
-        }
-        return lastId;
-    }
-     public static void main(String[] args) {
-        int[] ids={998, 1001, 1004, 999, 1008, 1003};
-        System.out.println(findLastEmployeeId(ids));
-     }
-}
+// public class Main {
+//     static int findLastEmployeeId(int[] ids){
+//         int lastId=-1;
+//         for(int id:ids){
+//             if(id>1000&&id%2==0){
+//                 lastId=id;
+//             }
+//         }
+//         return lastId;
+//     }
+//      public static void main(String[] args) {
+//         int[] ids={998, 1001, 1004, 999, 1008, 1003};
+//         System.out.println(findLastEmployeeId(ids));
+//      }
+// }
