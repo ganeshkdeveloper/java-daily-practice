@@ -47,9 +47,9 @@ package Day51187;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("pls come back");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("pls come back");
+//     }
+// }
