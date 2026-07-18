@@ -35,3 +35,12 @@ package Day51187;
 //         System.out.println("Rough Note");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Ganesan Come Back");
+    }
+}
