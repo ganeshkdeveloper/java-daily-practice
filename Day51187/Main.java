@@ -26,3 +26,12 @@ package Day51187;
 //         System.out.println("Do it Today");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Rough Note");
+    }
+}
