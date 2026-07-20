@@ -33,3 +33,20 @@ package Day53207;
 //             System.out.println(findFirstVowel("Developer"));
 //         }
 // }
+/**
+ * Main
+ */
+public class Main {
+     static char findLastVowel(String name){
+        for(int i=name.length()-1; i>=0;i--){
+            char ch=Character.toLowerCase(name.charAt(i));
+            if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
+                return ch;
+            }
+        }
+        return '#';
+     }
+     public static void main(String[] args) {
+        System.out.println(findLastVowel("Developer"));
+     }
+}
