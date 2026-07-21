@@ -62,3 +62,25 @@ package Day54217;
 //         sc.close();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+     static int countCharacter(String str, char target){
+        int count=0;
+        target=Character.toLowerCase(target);
+        for(int i=0;i<str.length();i++){
+            char ch=Character.toLowerCase(str.charAt(i));
+            if(ch==target){
+                count++;
+            }
+        }
+        return count;
+     }
+     public static void main(String[] args) {
+        System.out.println(countCharacter("Ganesh", 'a'));
+        System.out.println(countCharacter("Mississippi", 's'));   
+        System.out.println(countCharacter("Developer", 'e'));     
+        System.out.println(countCharacter("GanEsh", 'e'));    
+     }
+}
