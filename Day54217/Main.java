@@ -36,3 +36,29 @@ package Day54217;
 //         System.out.println(isPalindrome("level")); 
 //     }
 // }
+import java.util.Scanner;
+
+public class Main {
+
+    static boolean isPalindrome(String str) {
+        String reversed = "";
+
+        // Reverse the string
+        for (int i = str.length() - 1; i >= 0; i--) {
+            reversed += str.charAt(i);
+        }
+
+        // Compare original and reversed strings
+        return str.equals(reversed);
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String str = sc.nextLine();
+
+        System.out.println(isPalindrome(str));
+
+        sc.close();
+    }
+}
