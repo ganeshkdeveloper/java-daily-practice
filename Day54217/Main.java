@@ -87,9 +87,9 @@ package Day54217;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("First Learn, Then Earn, Work like a Hell");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("First Learn, Then Earn, Work like a Hell");
+//     }
+// }
