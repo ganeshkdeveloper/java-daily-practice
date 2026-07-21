@@ -84,3 +84,12 @@ package Day54217;
 //         System.out.println(countCharacter("GanEsh", 'e'));    
 //      }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("First Learn, Then Earn, Work like a Hell");
+    }
+}
