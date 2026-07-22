@@ -58,3 +58,12 @@ package Day55227;
 //         System.out.println("No One is Coming To Save You");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(2+2);
+    }
+}
