@@ -25,9 +25,9 @@ package Day55227;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Kee Trying");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Kee Trying");
+//     }
+// }
