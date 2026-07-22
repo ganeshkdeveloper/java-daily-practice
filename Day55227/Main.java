@@ -94,3 +94,12 @@ package Day55227;
 //         System.out.println("Hello World No One is Coming to save You");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("No One is Coming To Save You");
+    }
+}
