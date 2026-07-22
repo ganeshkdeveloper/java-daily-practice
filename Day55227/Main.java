@@ -31,3 +31,12 @@ package Day55227;
 //         System.out.println("Kee Trying");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("No one is coming to Save You");
+    }
+}
