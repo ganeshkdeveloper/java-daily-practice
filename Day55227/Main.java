@@ -4,3 +4,12 @@ package Day55227;
 //         System.out.println("Keep Trying");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Keep Trying");
+    }
+}
