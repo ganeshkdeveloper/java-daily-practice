@@ -67,3 +67,12 @@ package Day55227;
 //         System.out.println(2+2);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World Im Changed Not The Plan");
+    }
+}
