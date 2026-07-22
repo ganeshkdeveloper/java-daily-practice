@@ -70,9 +70,9 @@ package Day55227;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World Im Changed Not The Plan");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello World Im Changed Not The Plan");
+//     }
+// }
