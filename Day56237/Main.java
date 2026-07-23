@@ -43,9 +43,9 @@ package Day56237;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("No one is coming to save Yout");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("No one is coming to save Yout");
+//     }
+// }
