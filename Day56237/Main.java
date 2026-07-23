@@ -22,3 +22,12 @@ package Day56237;
 //         System.out.println("Once Again Stand Alone");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Stand Alone");
+    }
+}
