@@ -40,3 +40,12 @@ package Day57247;
 //         System.out.println("I am back");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Angry");
+    }
+}
