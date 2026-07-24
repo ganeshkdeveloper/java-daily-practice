@@ -4,3 +4,12 @@ package Day57247;
 //         System.out.println("Hello Mr. Hungry");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hmmm");
+    }
+}
