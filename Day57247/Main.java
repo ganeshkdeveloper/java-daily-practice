@@ -13,3 +13,12 @@ package Day57247;
 //         System.out.println("Hmmm");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Hungry");
+    }
+}
