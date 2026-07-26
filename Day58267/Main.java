@@ -4,3 +4,12 @@ package Day58267;
 //         System.out.println("Dont let you down");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Dont be Afraid");
+    }
+}
