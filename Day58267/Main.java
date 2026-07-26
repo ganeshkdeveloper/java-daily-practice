@@ -43,9 +43,18 @@ package Day58267;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("You r right");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("You r right");
+        System.out.println("You r great in the future");
     }
 }
