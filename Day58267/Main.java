@@ -52,9 +52,9 @@ package Day58267;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("You r great in the future");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("You r great in the future");
+//     }
+// }
