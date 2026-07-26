@@ -34,9 +34,9 @@ package Day58267;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("You done this");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("You done this");
+//     }
+// }
