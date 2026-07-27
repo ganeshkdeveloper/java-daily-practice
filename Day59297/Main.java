@@ -31,3 +31,12 @@ package Day59297;
 //         System.out.println("Neter this worls");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("New ti thia h");
+    }
+}
