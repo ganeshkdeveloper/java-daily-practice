@@ -25,9 +25,9 @@ package Day59297;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Neter this worls");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Neter this worls");
+//     }
+// }
