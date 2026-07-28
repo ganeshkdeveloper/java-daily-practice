@@ -35,9 +35,9 @@ package Day60287;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("From Tomorrow new Begins");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("From Tomorrow new Begins");
+//     }
+// }
