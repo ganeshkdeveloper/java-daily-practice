@@ -41,3 +41,12 @@ package Day60287;
 //         System.out.println("From Tomorrow new Begins");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Do it Your Future Self Thanks You");
+    }
+}
