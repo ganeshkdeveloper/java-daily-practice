@@ -32,3 +32,12 @@ package Day60287;
 //         System.out.println("Every morning is important");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("From Tomorrow new Begins");
+    }
+}
