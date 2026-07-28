@@ -5,3 +5,12 @@ package Day60287;
 //         System.out.println("Everything works if u works");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Everything Stops if u stops");
+    }
+}
