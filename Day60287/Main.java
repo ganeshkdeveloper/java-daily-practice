@@ -8,9 +8,9 @@ package Day60287;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Everything Stops if u stops");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Everything Stops if u stops");
+//     }
+// }
