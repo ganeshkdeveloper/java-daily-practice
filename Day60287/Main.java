@@ -23,3 +23,12 @@ package Day60287;
 //         System.out.println("as same as that");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Every morning is important");
+    }
+}
