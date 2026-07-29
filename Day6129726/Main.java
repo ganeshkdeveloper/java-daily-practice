@@ -48,9 +48,18 @@ package Day6129726;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("You are the First Self Owned Millionare in your Blood Line");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("You are the First Self Owned Millionare in your Blood Line");
+        System.out.println("You are the Champion");
     }
 }
