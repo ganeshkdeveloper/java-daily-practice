@@ -30,9 +30,9 @@ package Day6129726;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Morning makes better");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Morning makes better");
+//     }
+// }
