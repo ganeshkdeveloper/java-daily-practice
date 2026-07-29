@@ -27,3 +27,12 @@ package Day6129726;
 //         System.out.println("New Chapter Begins");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Morning makes better");
+    }
+}
