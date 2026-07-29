@@ -39,9 +39,9 @@ package Day6129726;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Run Fater Run");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Run Fater Run");
+//     }
+// }
