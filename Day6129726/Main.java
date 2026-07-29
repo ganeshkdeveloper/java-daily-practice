@@ -36,3 +36,12 @@ package Day6129726;
 //         System.out.println("Morning makes better");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Run Fater Run");
+    }
+}
