@@ -52,9 +52,9 @@ package Day62307;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Enter the Dragon");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Enter the Dragon");
+//     }
+// }
