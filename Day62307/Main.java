@@ -4,3 +4,12 @@ package Day62307;
 //         System.out.println("Hllo world");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
