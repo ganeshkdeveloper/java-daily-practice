@@ -49,3 +49,12 @@ package Day62307;
 //         System.out.println("HEllo World of Challenges");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Enter the Dragon");
+    }
+}
