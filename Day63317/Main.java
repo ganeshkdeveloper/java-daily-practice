@@ -45,9 +45,9 @@ package Day63317;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Run Faster Run");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Run Faster Run");
+//     }
+// }
