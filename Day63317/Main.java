@@ -54,10 +54,10 @@ package Day63317;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Learn More");
-        System.out.println("Earn More");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Learn More");
+//         System.out.println("Earn More");
+//     }
+// }
