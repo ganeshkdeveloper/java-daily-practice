@@ -51,3 +51,13 @@ package Day63317;
 //         System.out.println("Run Faster Run");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Learn More");
+        System.out.println("Earn More");
+    }
+}
