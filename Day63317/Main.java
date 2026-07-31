@@ -15,20 +15,20 @@ import java.util.*;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Student Name: ");
-        String name=sc.nextLine();
-        System.out.println("Enter Roll Number: ");
-        int roll=sc.nextInt();
-        System.out.println("Enter Marks: ");
-        double marks=sc.nextDouble();
-        System.out.println("\n Student Details");
-        System.out.println("Name: "+name);
-        System.out.println("Roll Number: "+roll);
-        System.out.println("Marks: "+marks);
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Enter Student Name: ");
+//         String name=sc.nextLine();
+//         System.out.println("Enter Roll Number: ");
+//         int roll=sc.nextInt();
+//         System.out.println("Enter Marks: ");
+//         double marks=sc.nextDouble();
+//         System.out.println("\n Student Details");
+//         System.out.println("Name: "+name);
+//         System.out.println("Roll Number: "+roll);
+//         System.out.println("Marks: "+marks);
+//         sc.close();
+//     }
+// }
