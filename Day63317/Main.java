@@ -42,3 +42,12 @@ package Day63317;
 //         System.out.println("Hello Banking");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Run Faster Run");
+    }
+}
