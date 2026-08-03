@@ -24,3 +24,12 @@ package Day65038;
 //         System.out.println("Dont Give Up");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Stand alone");
+    }
+}
