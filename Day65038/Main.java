@@ -120,3 +120,37 @@ package Day65038;
 //         System.out.println(findSecondSmallest(arr3)); 
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int findThirdLargest(int[] arr){
+        if(arr==null||arr.length<3){
+            return -1;
+        }
+        int largest=Integer.MIN_VALUE;
+        int secondLargest=Integer.MIN_VALUE;
+        int thirdLargest=Integer.MIN_VALUE;
+        for(int num:arr){
+            if(num>largest){
+                thirdLargest=secondLargest;
+                secondLargest=largest;
+                largest=num;
+            }else if(num>secondLargest&&num!=largest){
+                thirdLargest=num;
+            }else if(num>thirdLargest&&num!=secondLargest&&num!=largest){
+                thirdLargest=num;
+            }
+        }
+        return(thirdLargest==Integer.MIN_VALUE)?-1:thirdLargest;
+    }
+    public static void main(String[] args) {
+          int[] arr1 = {10, 20, 30, 40, 50};
+        int[] arr2 = {5, 5, 5};
+        int[] arr3 = {10, 40, 20, 50, 30};
+
+        System.out.println(findThirdLargest(arr1)); 
+        System.out.println(findThirdLargest(arr2)); 
+        System.out.println(findThirdLargest(arr3)); 
+    }
+}
