@@ -168,17 +168,17 @@ package Day65038;
  * Main
  */
 import java.util.*;
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new  Scanner(System.in);
-        System.out.println("Enter Number 1");
-        int a=sc.nextInt();
-        System.out.println("You entered "+a);
-        System.out.println("Enter Number 2");
-        int b=sc.nextInt();
-        System.out.println("You entered"+b);
-        System.out.println("Result: "+(a+b));
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new  Scanner(System.in);
+//         System.out.println("Enter Number 1");
+//         int a=sc.nextInt();
+//         System.out.println("You entered "+a);
+//         System.out.println("Enter Number 2");
+//         int b=sc.nextInt();
+//         System.out.println("You entered"+b);
+//         System.out.println("Result: "+(a+b));
+//         sc.close();
+//     }
+// }
