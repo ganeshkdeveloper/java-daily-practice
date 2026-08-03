@@ -155,3 +155,12 @@ package Day65038;
 //         System.out.println(findThirdLargest(arr3)); 
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Heloa");
+    }
+}
