@@ -45,9 +45,18 @@ package Day65038;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("All is Well");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("All is Well");
+        System.out.println("Work Hard Like Hell");
     }
 }
