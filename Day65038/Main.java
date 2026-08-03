@@ -137,7 +137,8 @@ package Day65038;
 //                 secondLargest=largest;
 //                 largest=num;
 //             }else if(num>secondLargest&&num!=largest){
-//                 thirdLargest=num;
+//                  thirdLargest = secondLargest;
+                //secondLargest = num;
 //             }else if(num>thirdLargest&&num!=secondLargest&&num!=largest){
 //                 thirdLargest=num;
 //             }
