@@ -42,3 +42,12 @@ package Day65038;
 //         System.out.println("Do work it all day one day result come dont go back");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("All is Well");
+    }
+}
