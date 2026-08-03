@@ -15,3 +15,12 @@ package Day65038;
 //         System.out.println(2-5);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Dont Give Up");
+    }
+}
