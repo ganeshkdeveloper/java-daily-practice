@@ -36,9 +36,9 @@ package Day65038;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Do work it all day one day result come dont go back");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Do work it all day one day result come dont go back");
+//     }
+// }
