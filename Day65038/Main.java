@@ -64,29 +64,59 @@ package Day65038;
 /**
  * Main
  */
+// public class Main {
+//     static int findSecondLargest(int[] arr){
+//         if(arr==null||arr.length<2){
+//             return -1;
+//         }
+//         int largest=Integer.MIN_VALUE;
+//         int secondLargest=Integer.MIN_VALUE;
+//         for(int num:arr){
+//             if(num>largest){
+//                 secondLargest=largest;
+//                 largest=num;
+//             }else if(num>secondLargest&&num!=largest){
+//                 secondLargest=num;
+//             }
+//         }
+//         return (secondLargest==Integer.MIN_VALUE)?-1:secondLargest;
+//     }
+//     public static void main(String[] args) {
+//         int[] arr1 = {10, 20, 30, 40, 50};
+//         int[] arr2 = {5, 5, 5};
+//         int[] arr3 = {8, 15, 15, 10};
+//         System.out.println(findSecondLargest(arr1));
+//         System.out.println(findSecondLargest(arr2));
+//         System.out.println(findSecondLargest(arr3));
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
-    static int findSecondLargest(int[] arr){
+    static int findSecondSmallest(int[] arr){
         if(arr==null||arr.length<2){
             return -1;
         }
-        int largest=Integer.MIN_VALUE;
-        int secondLargest=Integer.MIN_VALUE;
+        int smallest=Integer.MAX_VALUE;
+        int SecondSmallest=Integer.MAX_VALUE;
         for(int num:arr){
-            if(num>largest){
-                secondLargest=largest;
-                largest=num;
-            }else if(num>secondLargest&&num!=largest){
-                secondLargest=num;
+            if(num<smallest){
+                SecondSmallest=smallest;
+                smallest=num;
+            }else if(num<SecondSmallest&&num!=smallest){
+                SecondSmallest=num;
             }
         }
-        return (secondLargest==Integer.MIN_VALUE)?-1:secondLargest;
+        return(SecondSmallest==Integer.MAX_VALUE)?-1:SecondSmallest;
     }
     public static void main(String[] args) {
         int[] arr1 = {10, 20, 30, 40, 50};
         int[] arr2 = {5, 5, 5};
-        int[] arr3 = {8, 15, 15, 10};
-        System.out.println(findSecondLargest(arr1));
-        System.out.println(findSecondLargest(arr2));
-        System.out.println(findSecondLargest(arr3));
+        int[] arr3 = {8, 3, 3, 10, 5};
+
+        System.out.println(findSecondSmallest(arr1)); 
+        System.out.println(findSecondSmallest(arr2)); 
+        System.out.println(findSecondSmallest(arr3)); 
     }
 }
