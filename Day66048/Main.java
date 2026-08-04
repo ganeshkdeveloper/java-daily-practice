@@ -45,3 +45,17 @@ package Day66048;
 //         System.out.println(10+20);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int num=7;
+        if(num%2==0){
+            System.out.println("Even");
+        }else{
+            System.out.println("odd");
+        }
+    }
+}
