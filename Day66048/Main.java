@@ -88,3 +88,18 @@ package Day66048;
 //         }
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+       int a=15;
+       int b=20;
+       if(a<b){
+        System.out.println(a);
+       }else{
+        System.out.println(b);
+       }
+    }
+}
