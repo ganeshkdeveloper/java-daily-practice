@@ -27,3 +27,12 @@ package Day66048;
 //         System.out.println(findFirstUnique(arr3));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
