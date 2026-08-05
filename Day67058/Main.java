@@ -47,24 +47,24 @@ package Day67058;
 /**
  * Main
  */
-public class Main {
-    static int countDigits(int num){
-        int count=0;
-        while (num>0) {
-            count++;
-            num=num/10;
-        }
-        return count;
-    }
-    public static void main(String[] args) {
-        int num1 = 12345;
-        int num2 = 7;
-        int num3 = 1000;
-        int num4 = 987654321;
+// public class Main {
+//     static int countDigits(int num){
+//         int count=0;
+//         while (num>0) {
+//             count++;
+//             num=num/10;
+//         }
+//         return count;
+//     }
+//     public static void main(String[] args) {
+//         int num1 = 12345;
+//         int num2 = 7;
+//         int num3 = 1000;
+//         int num4 = 987654321;
 
-        System.out.println(countDigits(num1));
-        System.out.println(countDigits(num2));
-        System.out.println(countDigits(num3));
-        System.out.println(countDigits(num4));
-    }
-}
+//         System.out.println(countDigits(num1));
+//         System.out.println(countDigits(num2));
+//         System.out.println(countDigits(num3));
+//         System.out.println(countDigits(num4));
+//     }
+// }
