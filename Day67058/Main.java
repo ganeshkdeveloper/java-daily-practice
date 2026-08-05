@@ -132,3 +132,12 @@ package Day67058;
 //         System.out.println("Hello James Gosling");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Java and Python");
+    }
+}
