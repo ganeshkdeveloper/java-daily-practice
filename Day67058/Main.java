@@ -126,9 +126,9 @@ package Day67058;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello James Gosling");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello James Gosling");
+//     }
+// }
