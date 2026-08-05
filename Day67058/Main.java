@@ -68,3 +68,28 @@ package Day67058;
 //         System.out.println(countDigits(num4));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int sumOfDigits(int num){
+        int sum=0;
+        while (num>0) {
+            int digit=num%10;
+            sum=sum+digit;
+            num=num/10;
+        }
+        return sum;
+    }
+    public static void main(String[] args) {
+         int num1 = 12345;
+        int num2 = 7;
+        int num3 = 1000;
+        int num4 = 987;
+
+        System.out.println(sumOfDigits(num1));
+        System.out.println(sumOfDigits(num2));
+        System.out.println(sumOfDigits(num3));
+        System.out.println(sumOfDigits(num4));
+    }
+}
