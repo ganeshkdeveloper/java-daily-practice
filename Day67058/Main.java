@@ -123,3 +123,12 @@ package Day67058;
 //         System.out.println(productOfDigits(num4));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello James Gosling");
+    }
+}
