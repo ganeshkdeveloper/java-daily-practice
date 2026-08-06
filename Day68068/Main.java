@@ -106,26 +106,26 @@ package Day68068;
 /**
  * Main
  */
-public class Main {
-    static int productOfDigits(int num){
-        int product=1;
-        while (num>0) {
-            int digit=num%10;
-            product=product*digit;
-            num=num/10;
-        }
-        return product;
-    }
-    public static void main(String[] args) {
-        int num1=1234;
-        int num2=7;
-        int num3=1002;
-        int num4=345;
-        int num5=0;
-        System.out.println(productOfDigits(num1));
-        System.out.println(productOfDigits(num2));
-        System.out.println(productOfDigits(num3));
-        System.out.println(productOfDigits(num4));
-        System.out.println(productOfDigits(num5));
-    }
-}
+// public class Main {
+//     static int productOfDigits(int num){
+//         int product=1;
+//         while (num>0) {
+//             int digit=num%10;
+//             product=product*digit;
+//             num=num/10;
+//         }
+//         return product;
+//     }
+//     public static void main(String[] args) {
+//         int num1=1234;
+//         int num2=7;
+//         int num3=1002;
+//         int num4=345;
+//         int num5=0;
+//         System.out.println(productOfDigits(num1));
+//         System.out.println(productOfDigits(num2));
+//         System.out.println(productOfDigits(num3));
+//         System.out.println(productOfDigits(num4));
+//         System.out.println(productOfDigits(num5));
+//     }
+// }
