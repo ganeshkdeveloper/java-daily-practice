@@ -58,46 +58,46 @@ package Day69078;
 //         System.out.println(num6 + " -> " + isArmstrong(num6));
 //     }
 // }
-public class Main {
+// public class Main {
 
-    static boolean isPrime(int num) {
+//     static boolean isPrime(int num) {
 
-        // Handle negative numbers, 0, and 1
-        if (num <= 1) {
-            return false;
-        }
+//         // Handle negative numbers, 0, and 1
+//         if (num <= 1) {
+//             return false;
+//         }
 
-        // Check for divisors
-        for (int i = 2; i < num; i++) {
-            if (num % i == 0) {
-                return false;
-            }
-        }
+//         // Check for divisors
+//         for (int i = 2; i < num; i++) {
+//             if (num % i == 0) {
+//                 return false;
+//             }
+//         }
 
-        // No divisors found
-        return true;
-    }
+//         // No divisors found
+//         return true;
+//     }
 
-    public static void main(String[] args) {
+//     public static void main(String[] args) {
 
-        int num1 = 2;
-        int num2 = 3;
-        int num3 = 4;
-        int num4 = 5;
-        int num5 = 17;
-        int num6 = 21;
-        int num7 = 1;
-        int num8 = 0;
-        int num9 = -5;
+//         int num1 = 2;
+//         int num2 = 3;
+//         int num3 = 4;
+//         int num4 = 5;
+//         int num5 = 17;
+//         int num6 = 21;
+//         int num7 = 1;
+//         int num8 = 0;
+//         int num9 = -5;
 
-        System.out.println(num1 + " -> " + isPrime(num1));
-        System.out.println(num2 + " -> " + isPrime(num2));
-        System.out.println(num3 + " -> " + isPrime(num3));
-        System.out.println(num4 + " -> " + isPrime(num4));
-        System.out.println(num5 + " -> " + isPrime(num5));
-        System.out.println(num6 + " -> " + isPrime(num6));
-        System.out.println(num7 + " -> " + isPrime(num7));
-        System.out.println(num8 + " -> " + isPrime(num8));
-        System.out.println(num9 + " -> " + isPrime(num9));
-    }
-}
+//         System.out.println(num1 + " -> " + isPrime(num1));
+//         System.out.println(num2 + " -> " + isPrime(num2));
+//         System.out.println(num3 + " -> " + isPrime(num3));
+//         System.out.println(num4 + " -> " + isPrime(num4));
+//         System.out.println(num5 + " -> " + isPrime(num5));
+//         System.out.println(num6 + " -> " + isPrime(num6));
+//         System.out.println(num7 + " -> " + isPrime(num7));
+//         System.out.println(num8 + " -> " + isPrime(num8));
+//         System.out.println(num9 + " -> " + isPrime(num9));
+//     }
+// }
