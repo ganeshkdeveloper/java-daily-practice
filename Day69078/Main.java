@@ -10,3 +10,51 @@ package Day69078;
 //         System.out.println("Oh! your wish is to earn "+num+","+ "congragulations!");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static boolean isArmstrong(int num){
+        int original=num;
+        int count=0;
+        int temp=num;
+        if(temp==0){
+            count=1;
+        }
+        while (temp>0) {
+            count++;
+            temp=temp/10;
+        }
+        int sum=0;
+         temp=num;
+         if(temp==0){
+            sum=0;
+         }
+         while (temp>0) {
+            int digit=temp%10;
+            int power=1;
+            for (int i=1;i<=count;i++){
+                power=power*digit;
+            }
+            sum=sum+power;
+            temp=temp/10;
+         }
+         return sum==original;
+
+    } 
+    public static void main(String[] args) {
+       int num1 = 153;
+        int num2 = 370;
+        int num3 = 371;
+        int num4 = 407;
+        int num5 = 123;
+        int num6 = 0;
+
+        System.out.println(num1 + " -> " + isArmstrong(num1));
+        System.out.println(num2 + " -> " + isArmstrong(num2));
+        System.out.println(num3 + " -> " + isArmstrong(num3));
+        System.out.println(num4 + " -> " + isArmstrong(num4));
+        System.out.println(num5 + " -> " + isArmstrong(num5));
+        System.out.println(num6 + " -> " + isArmstrong(num6));
+    }
+}
