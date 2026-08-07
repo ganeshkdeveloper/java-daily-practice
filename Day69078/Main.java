@@ -135,3 +135,12 @@ package Day69078;
 //         System.out.println("Hello world of java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("World of java");
+    }
+}
