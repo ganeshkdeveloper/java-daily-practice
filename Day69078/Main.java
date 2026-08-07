@@ -171,3 +171,12 @@ package Day69078;
 //         System.out.println("Hello Ganesan");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Ganesan");
+    }
+}
