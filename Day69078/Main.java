@@ -174,9 +174,9 @@ package Day69078;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Ganesan");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Ganesan");
+//     }
+// }
