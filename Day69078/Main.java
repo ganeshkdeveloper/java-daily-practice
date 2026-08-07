@@ -1,5 +1,7 @@
 package Day69078;
 
+import java.util.Scanner;
+
 // import java.util.Scanner;
 
 // public class Main {
@@ -110,3 +112,17 @@ package Day69078;
 //         System.out.println("Welcome to the world");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        
+        System.out.println("What's your name?");
+        String name=sc.nextLine();
+        System.out.println("Your name is "+ name);
+        sc.close();
+    }
+}
