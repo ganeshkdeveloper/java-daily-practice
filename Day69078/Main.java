@@ -101,3 +101,12 @@ package Day69078;
 //         System.out.println(num9 + " -> " + isPrime(num9));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to the world");
+    }
+}
