@@ -8,9 +8,9 @@ package Day70088;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.err.println("Hai this is Ganesan");
-    }
-}
+//     public static void main(String[] args) {
+//         System.err.println("Hai this is Ganesan");
+//     }
+// }
