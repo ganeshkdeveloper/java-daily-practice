@@ -41,3 +41,12 @@ package Day70088;
 //         System.out.println("Codex");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Reveal the hidden scientist with in you");
+    }
+}
