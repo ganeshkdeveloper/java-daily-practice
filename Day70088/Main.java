@@ -35,9 +35,9 @@ package Day70088;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Codex");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Codex");
+//     }
+// }
