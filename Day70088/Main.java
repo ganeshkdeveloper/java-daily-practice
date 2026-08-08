@@ -23,3 +23,12 @@ package Day70088;
 //         System.out.println("Do it what krish says");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Run this codex");
+    }
+}
