@@ -17,9 +17,9 @@ package Day70088;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Do it what krish says");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Do it what krish says");
+//     }
+// }
