@@ -5,3 +5,12 @@ package Day70088;
 //         System.out.println("Hello World");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.err.println("Hai this is Ganesan");
+    }
+}
