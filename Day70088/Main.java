@@ -14,3 +14,12 @@ package Day70088;
 //         System.err.println("Hai this is Ganesan");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Do it what krish says");
+    }
+}
