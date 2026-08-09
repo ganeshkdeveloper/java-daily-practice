@@ -35,9 +35,18 @@ package Day71098;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("Hai py");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hai py");
+        System.out.println("Hello Java & Python");
     }
 }
