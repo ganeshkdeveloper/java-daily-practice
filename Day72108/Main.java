@@ -28,9 +28,9 @@ package Day72108;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello Consistency");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello Consistency");
+//     }
+// }
