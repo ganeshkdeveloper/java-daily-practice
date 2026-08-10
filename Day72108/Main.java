@@ -34,3 +34,21 @@ package Day72108;
 //         System.out.println("Hello Consistency");
 //     }
 // }
+/**
+ * Main
+ */
+import java.util.*;
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter first number: ");
+        int a=sc.nextInt();
+        System.out.println("You entered: "+a);
+        System.out.println("Enter second number: ");
+        int b=sc.nextInt();
+        System.out.println("you entered: "+b);
+        System.out.println("so thats total is: "+(a+b));
+        sc.close();
+    }
+}
