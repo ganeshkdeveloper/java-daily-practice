@@ -25,3 +25,12 @@ package Day72108;
 //         swapNumbers(a, b);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Consistency");
+    }
+}
