@@ -22,3 +22,12 @@ package Day73118;
 //         System.out.println(findLargest(7, 7));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("consistency is the goal");
+    }
+}
