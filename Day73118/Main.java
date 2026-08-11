@@ -40,3 +40,12 @@ package Day73118;
 //         System.out.println("Git add git commit git push");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Close today");
+    }
+}
