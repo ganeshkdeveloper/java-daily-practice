@@ -34,9 +34,9 @@ package Day73118;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Git add git commit git push");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Git add git commit git push");
+//     }
+// }
