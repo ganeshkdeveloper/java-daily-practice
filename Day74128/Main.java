@@ -46,3 +46,15 @@ package Day74128;
 //         sc.close();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+        public static void main(String[] args) {
+            System.out.println("Hello Java");
+            System.out.println("Hi! Java");
+            System.out.println("Bye Java");
+            System.out.println("Java");
+        }
+}
