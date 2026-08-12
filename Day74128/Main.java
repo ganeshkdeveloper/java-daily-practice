@@ -1,5 +1,7 @@
 package Day74128;
 
+import java.util.Scanner;
+
 // public class Main {
 //     static int findSmallest(int a,int b){
 //         if(a<b){
@@ -31,3 +33,16 @@ package Day74128;
 //         System.out.println("Hello Java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a number: ");
+        int a=sc.nextInt();
+        System.out.println("you entered,"+a);
+        sc.close();
+    }
+}
