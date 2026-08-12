@@ -13,3 +13,12 @@ package Day74128;
 //         System.out.println(findSmallest(50, 30)); 
 //         System.out.println(findSmallest(7, 7));   
 // }}
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Print java");
+    }
+}
