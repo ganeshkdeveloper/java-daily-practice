@@ -36,13 +36,13 @@ import java.util.Scanner;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a number: ");
-        int a=sc.nextInt();
-        System.out.println("you entered,"+a);
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Enter a number: ");
+//         int a=sc.nextInt();
+//         System.out.println("you entered,"+a);
+//         sc.close();
+//     }
+// }
