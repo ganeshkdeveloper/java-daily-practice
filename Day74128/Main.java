@@ -1,6 +1,6 @@
 package Day74128;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // public class Main {
 //     static int findSmallest(int a,int b){
