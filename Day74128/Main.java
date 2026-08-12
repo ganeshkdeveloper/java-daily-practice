@@ -22,3 +22,12 @@ package Day74128;
 //         System.out.println("Print java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Java");
+    }
+}
