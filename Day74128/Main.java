@@ -25,9 +25,9 @@ package Day74128;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello Java");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello Java");
+//     }
+// }
