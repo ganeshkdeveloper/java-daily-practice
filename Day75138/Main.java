@@ -43,14 +43,14 @@ import java.util.Scanner;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
+//     public static void main(String[] args) {
         
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter your store");
-        String a=sc.nextLine();
-        System.out.println("Your store name: "+a);
-        sc.close();
-    }
-}
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Enter your store");
+//         String a=sc.nextLine();
+//         System.out.println("Your store name: "+a);
+//         sc.close();
+//     }
+// }
