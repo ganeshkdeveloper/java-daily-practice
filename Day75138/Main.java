@@ -9,3 +9,13 @@ package Day75138;
 //         System.out.println(addNumbers(7, 7));    
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+        System.out.println("Im coming");
+    }
+}
