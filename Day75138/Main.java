@@ -31,10 +31,10 @@ package Day75138;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("New brave");
-        System.out.println("Mr. Ganesan");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("New brave");
+//         System.out.println("Mr. Ganesan");
+//     }
+// }
