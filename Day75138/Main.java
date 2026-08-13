@@ -14,6 +14,8 @@ package Day75138;
  */
 // public class Main {
 
+import java.util.Scanner;
+
 //     public static void main(String[] args) {
 //         System.out.println("Hello world");
 //         System.out.println("Im coming");
@@ -38,3 +40,17 @@ package Day75138;
 //         System.out.println("Mr. Ganesan");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter your store");
+        String a=sc.nextLine();
+        System.out.println("Your store name: "+a);
+        sc.close();
+    }
+}
