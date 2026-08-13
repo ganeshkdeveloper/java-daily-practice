@@ -22,9 +22,9 @@ package Day75138;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("New courage");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("New courage");
+//     }
+// }
