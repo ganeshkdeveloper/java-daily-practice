@@ -57,9 +57,9 @@ import java.util.Scanner;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Tq java an py");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Tq java an py");
+//     }
+// }
