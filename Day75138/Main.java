@@ -54,3 +54,12 @@ import java.util.Scanner;
 //         sc.close();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Tq java an py");
+    }
+}
