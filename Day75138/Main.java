@@ -28,3 +28,13 @@ package Day75138;
 //         System.out.println("New courage");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("New brave");
+        System.out.println("Mr. Ganesan");
+    }
+}
