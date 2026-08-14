@@ -18,13 +18,13 @@ package Day76148;
  * Main
  */
 import java.util.*;
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter your name: ");
-        String name=sc.nextLine();
-        System.out.println("Your name is: "+name);
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Enter your name: ");
+//         String name=sc.nextLine();
+//         System.out.println("Your name is: "+name);
+//         sc.close();
+//     }
+// }
