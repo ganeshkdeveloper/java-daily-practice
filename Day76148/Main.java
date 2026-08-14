@@ -37,3 +37,14 @@ package Day76148;
 //         System.out.println("HEllo java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello java");
+        System.out.println("Hello py");
+        System.out.println("Hello Runtime");
+    }
+}
