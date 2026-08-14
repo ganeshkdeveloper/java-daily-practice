@@ -71,10 +71,10 @@ package Day76148;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Run time");
-        System.out.println("error");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Run time");
+//         System.out.println("error");
+//     }
+// }
