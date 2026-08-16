@@ -5,3 +5,12 @@ package Day78168;
 //         System.out.println("Hello Java and python");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Java and py");
+    }
+}
