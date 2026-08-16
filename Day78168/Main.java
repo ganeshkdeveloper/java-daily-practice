@@ -1,7 +1,7 @@
 package Day78168;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello Java and python");
-    }
-}
+// public class Main {
+//     public static void main(String[] args) {
+//         System.out.println("Hello Java and python");
+//     }
+// }
