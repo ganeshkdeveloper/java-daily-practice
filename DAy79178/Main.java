@@ -17,9 +17,18 @@ package DAy79178;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("Login successful");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Login successful");
+        System.out.println("High data");
     }
 }
