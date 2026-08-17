@@ -26,9 +26,18 @@ package DAy79178;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("High data");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("High data");
+        System.out.println("Hive mind connection");
     }
 }
