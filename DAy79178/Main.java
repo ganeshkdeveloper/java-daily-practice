@@ -8,9 +8,9 @@ package DAy79178;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println(1+1);
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println(1+1);
+//     }
+// }
