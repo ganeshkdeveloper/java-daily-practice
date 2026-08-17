@@ -50,3 +50,12 @@ package DAy79178;
 //         System.out.println("Login welcome");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello ");
+    }
+}
