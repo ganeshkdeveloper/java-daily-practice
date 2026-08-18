@@ -38,3 +38,12 @@ package Day80188;
 //         System.out.println("hello program");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Solutions easily made");
+    }
+}
