@@ -52,13 +52,13 @@ import java.util.Scanner;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter number");
-        int number=sc.nextInt();
-        System.out.println("You entered "+number);
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Enter number");
+//         int number=sc.nextInt();
+//         System.out.println("You entered "+number);
+//         sc.close();
+//     }
+// }
