@@ -1,4 +1,7 @@
 package Day80188;
+
+import java.util.Scanner;
+
 // public class Main {
 //     static int square(int num){
 //     return num*num;
@@ -10,3 +13,16 @@ package Day80188;
 //         System.out.println(square(0)); 
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter your name:");
+        String name=sc.nextLine();
+        System.out.println("your name is "+name);
+        sc.close();
+    }
+}
