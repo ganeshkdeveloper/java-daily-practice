@@ -46,3 +46,16 @@ package Day81198;
 //         sc.close();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World ");
+        int a=20;
+        int b=20;
+        System.out.println(a+b);
+
+    }
+}
