@@ -62,15 +62,15 @@ package Day81198;
 /**
  * Main
  */
-import java.util.*;
-public class Main {
+// import java.util.*;
+// public class Main {
 
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Hello James gosling");
-        System.out.println("Enter your name");
-        String name=sc.nextLine();
-        System.out.println(name+": your name");
-        sc.close();
-    }
-}
+//     public static void main(String[] args) {
+//         Scanner sc=new Scanner(System.in);
+//         System.out.println("Hello James gosling");
+//         System.out.println("Enter your name");
+//         String name=sc.nextLine();
+//         System.out.println(name+": your name");
+//         sc.close();
+//     }
+// }
