@@ -23,9 +23,26 @@ package Day81198;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("Hello Java and py");
+//     }
+// }
+/**
+ * Main
+ */
+import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello Java and py");
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter name: ");
+        String name=sc.nextLine();
+        System.out.println("Enter your age: ");
+        int age=sc.nextInt();
+        System.out.println("Your name is: "+name);
+        System.out.println("Your ageis: "+age);
+        sc.close();
     }
 }
