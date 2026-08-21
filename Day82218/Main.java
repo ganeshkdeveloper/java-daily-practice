@@ -1,7 +1,7 @@
 package Day82218;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Class method");
-    }
-}
+// public class Main {
+//     public static void main(String[] args) {
+//         System.out.println("Class method");
+//     }
+// }
