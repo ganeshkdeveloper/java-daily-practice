@@ -7,9 +7,18 @@ package Day83228;
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("Hello java and python");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello java and python");
+        System.out.println("hello world");
     }
 }
