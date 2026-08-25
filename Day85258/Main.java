@@ -21,3 +21,12 @@ package Day85258;
 //         System.out.println("Basha");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("println");
+    }
+}
