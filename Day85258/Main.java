@@ -57,4 +57,16 @@ package Day85258;
 //         System.out.println("helo maven");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("hello");
+        System.out.println("println");
+        System.out.println("java");
+        System.out.println("javs");
+    }
+}
 
