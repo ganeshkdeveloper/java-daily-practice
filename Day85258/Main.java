@@ -60,13 +60,13 @@ package Day85258;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("println");
-        System.out.println("java");
-        System.out.println("javs");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("hello");
+//         System.out.println("println");
+//         System.out.println("java");
+//         System.out.println("javs");
+//     }
+// }
 
