@@ -4,3 +4,11 @@ package Day85258;
 //         System.out.println("jolly oh jimkanna");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+public static void main(String[] args) {
+    System.out.println("Hello man");
+}
+}
