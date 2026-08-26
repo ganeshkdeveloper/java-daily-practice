@@ -60,3 +60,12 @@ package Day86268;
 //         System.out.println("keoj");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("println");
+    }
+}
