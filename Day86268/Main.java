@@ -69,3 +69,12 @@ package Day86268;
 //         System.out.println("println");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Consistency leads to improvement");
+    }
+}
