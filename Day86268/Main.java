@@ -51,3 +51,12 @@ package Day86268;
 //         System.out.println("Orientation");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("keoj");
+    }
+}
