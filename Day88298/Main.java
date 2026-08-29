@@ -7,9 +7,9 @@ package Day88298;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("python");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("python");
+//     }
+// }
