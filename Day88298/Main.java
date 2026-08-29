@@ -4,3 +4,12 @@ package Day88298;
 //         System.out.println("Java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("python");
+    }
+}
