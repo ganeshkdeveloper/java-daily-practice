@@ -32,3 +32,12 @@ package Day890909;
 //         System.out.println("Hello gpt astra");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
