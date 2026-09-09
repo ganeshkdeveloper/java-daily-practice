@@ -62,10 +62,10 @@ package Day890909;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("java and python");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello");
+//         System.out.println("java and python");
+//     }
+// }
