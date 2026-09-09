@@ -14,3 +14,12 @@ package Day890909;
 //         System.out.println("Hello coding");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hai ");
+    }
+}
