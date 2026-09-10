@@ -41,3 +41,12 @@ package Day901009;
 //         System.out.println("java");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("japy");
+    }
+}
