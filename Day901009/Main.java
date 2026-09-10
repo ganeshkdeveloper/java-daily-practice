@@ -35,9 +35,9 @@ package Day901009;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("java");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("java");
+//     }
+// }
