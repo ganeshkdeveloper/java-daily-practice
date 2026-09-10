@@ -68,3 +68,14 @@ package Day901009;
 //         System.out.println("japy");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("print");
+        System.out.println("prints");
+        System.out.println("printss");
+    }
+}
