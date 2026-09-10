@@ -50,3 +50,12 @@ package Day901009;
 //         System.out.println("japy");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("pyja");
+    }
+}
