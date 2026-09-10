@@ -53,9 +53,9 @@ package Day901009;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("pyja");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("pyja");
+//     }
+// }
