@@ -60,3 +60,13 @@ package Day911109;
 //         System.out.println("rough");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("println");
+        System.out.println("prints");
+    }
+}
