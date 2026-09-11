@@ -70,3 +70,12 @@ package Day911109;
 //         System.out.println("prints");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Push harder");
+    }
+}
