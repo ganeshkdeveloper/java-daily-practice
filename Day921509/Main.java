@@ -58,3 +58,12 @@ package Day921509;
 //         System.out.println("Hello print");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("print");
+    }
+}
