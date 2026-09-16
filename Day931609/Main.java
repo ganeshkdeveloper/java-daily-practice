@@ -69,12 +69,24 @@ package Day931609;
 /**
  * Main
  */
+// public class Main {
+//     static  void add(int a,int b){
+//         int sum=a+b;
+//         System.out.println(sum);
+//     }
+//     public static void main(String[] args) {
+//         add(10,20);
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
-    static  void add(int a,int b){
-        int sum=a+b;
-        System.out.println(sum);
+    static  void  multiply(int a,int b){
+        int multiply=a*b;
+        System.out.println(multiply);
     }
     public static void main(String[] args) {
-        add(10,20);
+        multiply(5,4);
     }
 }
