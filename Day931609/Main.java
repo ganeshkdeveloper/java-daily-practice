@@ -32,3 +32,14 @@ package Day931609;
 //         }
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static  void greet(){
+        System.out.println("Welcome to Java");
+    }
+    public static void main(String[] args) {
+        greet();
+    }
+}
