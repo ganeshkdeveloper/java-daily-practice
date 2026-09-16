@@ -81,12 +81,12 @@ package Day931609;
 /**
  * Main
  */
-public class Main {
-    static  void  multiply(int a,int b){
-        int multiply=a*b;
-        System.out.println(multiply);
-    }
-    public static void main(String[] args) {
-        multiply(5,4);
-    }
-}
+// public class Main {
+//     static  void  multiply(int a,int b){
+//         int multiply=a*b;
+//         System.out.println(multiply);
+//     }
+//     public static void main(String[] args) {
+//         multiply(5,4);
+//     }
+// }
