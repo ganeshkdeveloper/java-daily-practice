@@ -93,13 +93,13 @@ package Day931609;
 /**
  * Main
  */
-public class Main {
-    static int square(int number){
-        int result=number*number;
-        return  result;
-    }
-    public static void main(String[] args) {
-        int answer=square(5);
-        System.out.println(answer);
-    }
-}
+// public class Main {
+//     static int square(int number){
+//         int result=number*number;
+//         return  result;
+//     }
+//     public static void main(String[] args) {
+//         int answer=square(5);
+//         System.out.println(answer);
+//     }
+// }
