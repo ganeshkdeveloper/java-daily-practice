@@ -90,3 +90,16 @@ package Day931609;
 //         multiply(5,4);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int square(int number){
+        int result=number*number;
+        return  result;
+    }
+    public static void main(String[] args) {
+        int answer=square(5);
+        System.out.println(answer);
+    }
+}
