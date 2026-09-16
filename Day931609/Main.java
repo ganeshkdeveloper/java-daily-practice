@@ -112,3 +112,12 @@ package Day931609;
 //         System.out.println("Java mission");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Loading..... py");
+    }
+}
