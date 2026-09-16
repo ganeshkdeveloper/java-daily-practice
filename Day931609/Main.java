@@ -43,3 +43,15 @@ package Day931609;
 //         greet();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static  void greet(String name){
+        System.out.println("Welcome "+name);
+    }
+    public static void main(String[] args) {
+        greet("Ganesh");
+        greet("Run");
+    }
+}
