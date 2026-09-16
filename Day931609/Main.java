@@ -121,3 +121,12 @@ package Day931609;
 //         System.out.println("Loading..... py");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("over over");
+    }
+}
