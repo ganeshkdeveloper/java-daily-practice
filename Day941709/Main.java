@@ -37,15 +37,15 @@ package Day941709;
 //         System.out.println(add(10.5,20.5));
 //     }
 // }
-public class Main{
-    static int square(int number){
-        return number*number;
-    }
-    static double square (double number){
-        return number*number;
-    }
-    public static void main(String[] args){
-        System.out.println(square(5));
-        System.out.println(square(5.5));
-    }
-}
+// public class Main{
+//     static int square(int number){
+//         return number*number;
+//     }
+//     static double square (double number){
+//         return number*number;
+//     }
+//     public static void main(String[] args){
+//         System.out.println(square(5));
+//         System.out.println(square(5.5));
+//     }
+// }
