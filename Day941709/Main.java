@@ -58,11 +58,11 @@ package Day941709;
 //         showNumber();
 //     }
 // }
-public class Main{
-    static void display(){
-        System.out.println("Java");
-    }
-    public static void main(String[] args){
-        display();
-    }
-}
+// public class Main{
+//     static void display(){
+//         System.out.println("Java");
+//     }
+//     public static void main(String[] args){
+//         display();
+//     }
+// }
