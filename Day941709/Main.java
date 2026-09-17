@@ -77,3 +77,13 @@ package Day941709;
 //         student("Ganesh",26);
 //      }
 // }
+public class Main{
+    static  void changeNumber(int number){
+        number=50;
+    }
+    public static  void main(String[] args){
+        int number=10;
+        changeNumber(number);
+        System.out.println(number);
+    }
+}
