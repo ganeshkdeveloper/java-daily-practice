@@ -87,3 +87,16 @@ package Day941709;
 //         System.out.println(number);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static  void changeNumber(int number){
+        number=100;
+    } 
+    public static void main(String[] args) {
+        int number=20;
+        changeNumber(number);
+        System.out.println(number);
+    }
+}
