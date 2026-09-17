@@ -100,3 +100,18 @@ package Day941709;
 //         System.out.println(number);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static  void display(int number, String name){
+        System.out.println(number+" "+name);
+    }
+    static  void display(String name, int number){
+        System.out.println(name+" "+number);
+    }
+    public static void main(String[] args) {
+        display(26,"Ganesh");
+        display("Ganesh",26);
+    }
+}
