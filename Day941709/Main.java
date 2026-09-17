@@ -66,14 +66,14 @@ package Day941709;
 //         display();
 //     }
 // }
-public class Main {
-    static void student(String name, int age){
-        String course="Java";
-        System.out.println("Name: "+name);
-        System.out.println("Age: "+age);
-        System.out.println("Course: "+course);
-    }
-     public static void main(String[] args){
-        student("Ganesh",26);
-     }
-}
+// public class Main {
+//     static void student(String name, int age){
+//         String course="Java";
+//         System.out.println("Name: "+name);
+//         System.out.println("Age: "+age);
+//         System.out.println("Course: "+course);
+//     }
+//      public static void main(String[] args){
+//         student("Ganesh",26);
+//      }
+// }
