@@ -49,3 +49,12 @@ package Day941709;
 //         System.out.println(square(5.5));
 //     }
 // }
+public class Main{
+    static void showNumber(){
+        int number = 100;
+        System.out.println(number);
+    }
+    public static void main(String[] args){
+        showNumber();
+    }
+}
