@@ -115,3 +115,18 @@ package Day941709;
 //         display("Ganesh",26);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static  void show(int age, String name){
+        System.out.println(age+" "+name);
+    }
+    static  void show(String name, int age){
+        System.out.println(name+" "+age);
+    }
+    public static void main(String[] args) {
+        show(26, "Ganesh");
+        show("Ganesh", 26);
+    }
+}
