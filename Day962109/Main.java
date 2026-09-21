@@ -97,9 +97,9 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.err.println("hELLO planning");
-    }
-}
+//     public static void main(String[] args) {
+//         System.err.println("hELLO planning");
+//     }
+// }
