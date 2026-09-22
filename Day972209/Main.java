@@ -73,3 +73,13 @@ package Day972209;
 //         System.out.println("tough and rough");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Ra");
+        System.out.println("C");
+    }
+}
