@@ -66,10 +66,10 @@ package Day972209;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Rough and tough");
-        System.out.println("tough and rough");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Rough and tough");
+//         System.out.println("tough and rough");
+//     }
+// }
