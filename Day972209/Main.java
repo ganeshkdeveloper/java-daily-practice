@@ -101,3 +101,12 @@ package Day972209;
 //         System.out.println("our source");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Our Ambiton in mind");
+    }
+}
