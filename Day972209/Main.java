@@ -104,9 +104,9 @@ package Day972209;
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Our Ambiton in mind");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Our Ambiton in mind");
+//     }
+// }
