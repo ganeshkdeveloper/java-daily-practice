@@ -92,3 +92,12 @@ package Day972209;
 //         System.out.println("jkah");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("our source");
+    }
+}
