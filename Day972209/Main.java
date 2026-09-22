@@ -54,3 +54,12 @@ package Day972209;
 //         System.out.println("Hello python");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Println");
+    }
+}
