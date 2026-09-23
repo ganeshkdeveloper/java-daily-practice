@@ -255,3 +255,18 @@
     //         System.out.println(balance);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         int salary = 30000;
+    //         System.out.println(salary == 25000);
+    //         System.out.println(salary != 25000);
+    //         System.out.println(salary > 25000);
+    //         System.out.println(salary < 25000);
+    //         System.out.println(salary >= 25000);
+    //         System.out.println(salary <= 25000);
+    //     }
+    // }
