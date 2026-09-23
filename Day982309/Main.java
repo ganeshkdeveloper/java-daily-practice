@@ -379,3 +379,15 @@
     //         System.out.println(username1.equals(username3));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //         public static void main(String[] args) {
+    //             String language1 = "Java";
+    //             String language2 = "JAVA";
+    //             System.out.println(language1.equalsIgnoreCase(language2));
+    //             System.out.println(language1.equals(language2));
+    //         }
+    // }
