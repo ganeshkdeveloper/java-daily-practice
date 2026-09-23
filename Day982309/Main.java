@@ -592,3 +592,17 @@
     //         System.out.println(text);
     //     }
     // }
+    /**
+     * Main
+     */
+  /**
+   * Main
+   */
+//   public class Main {
+  
+//     public static void main(String[] args) {
+//         int a = 75;
+//         int b = 120;
+//         System.out.println(Math.max(a, b));
+//     }
+//   }
