@@ -483,3 +483,14 @@
     //         System.out.println(profile);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String sentence = "Java is easy and Java is powerful";
+    //         System.out.println(sentence.indexOf("Java"));
+    //         System.out.println(sentence.lastIndexOf("Java"));
+    //     }
+    // }
