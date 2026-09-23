@@ -70,10 +70,10 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Println");
-        System.out.println("Println");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Println");
+//         System.out.println("Println");
+//     }
+// }
