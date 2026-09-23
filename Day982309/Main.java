@@ -627,3 +627,13 @@
 //         System.out.println(result);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int number = -150;
+//         System.out.println(Math.abs(number));
+//     }
+// }
