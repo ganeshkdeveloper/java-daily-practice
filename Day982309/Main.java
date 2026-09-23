@@ -658,3 +658,13 @@
 //         System.out.println(Math.round(number));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         double number = 12.1;
+//         System.out.println(Math.ceil(number));
+//     }
+// }
