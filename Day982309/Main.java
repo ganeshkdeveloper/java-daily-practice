@@ -567,3 +567,15 @@
     //         System.out.println(city1==city2);
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            StringBuilder message=new StringBuilder("Hello");
+            message.append(" Ganesh");
+            message.append(("!"));
+            System.out.println(message);
+        }
+    }
