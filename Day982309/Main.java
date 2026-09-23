@@ -736,3 +736,15 @@
 //         System.out.println(canDrive);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         boolean hasJava = true;
+//         boolean hasPython = false;
+//         boolean canDevelop = hasJava || hasPython;
+//         System.out.println(canDevelop);
+//     }
+// }
