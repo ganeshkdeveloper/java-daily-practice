@@ -238,3 +238,20 @@
     //         System.out.println("Remainder: "+ (a%b));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         int balance = 1000;
+    //         balance += 500;
+    //         System.out.println(balance);
+    //         balance -= 200;
+    //         System.out.println(balance);
+    //         balance *= 2;
+    //         System.out.println(balance);
+    //         balance /= 4;
+    //         System.out.println(balance);
+    //     }
+    // }
