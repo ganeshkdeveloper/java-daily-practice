@@ -98,3 +98,13 @@
 //         System.out.println("println");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello my eyes");
+        System.out.println("Java and python");
+    }
+}
