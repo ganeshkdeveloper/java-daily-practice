@@ -520,3 +520,15 @@
     //         System.out.println(result);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         int age = 26;
+    //         String ageText = String.valueOf(age);
+    //         System.out.println(ageText);
+    //         System.out.println(ageText.length());
+    //     }
+    // }
