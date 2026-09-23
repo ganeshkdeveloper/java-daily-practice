@@ -456,3 +456,18 @@
     //         System.out.println("Trimmed userName:" + cleanName);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String a = "";
+    //         String b = "   ";
+    //         String c = "Ganesh";
+    //         System.out.println(a.isEmpty());
+    //         System.out.println(b.isBlank());
+    //         System.out.println(c.isEmpty());
+    //         System.out.println(c.isBlank());
+    //     }
+    // }
