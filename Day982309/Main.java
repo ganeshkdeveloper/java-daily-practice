@@ -131,21 +131,21 @@
 
 //     }
 // }
-public class Main {
+    // public class Main {
 
-    public static void main(String[] args) {
-        String name = "Ganesh";
-        int age = 26;
-        String language = "Java";
-        System.out.println("====================");
-        System.out.println("     JAVA PROFILE");
-        System.out.println("====================");
-        System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
-        System.out.println("Language: " + language);
-        System.out.println("I am learning Java.");
-        System.out.println("Java is powerful.");
-        System.out.println("I will become a Java Full Stack Developer.");
-        System.out.println("====================");
-    }
-}
+    //     public static void main(String[] args) {
+    //         String name = "Ganesh";
+    //         int age = 26;
+    //         String language = "Java";
+    //         System.out.println("====================");
+    //         System.out.println("     JAVA PROFILE");
+    //         System.out.println("====================");
+    //         System.out.println("Name: " + name);
+    //         System.out.println("Age: " + age);
+    //         System.out.println("Language: " + language);
+    //         System.out.println("I am learning Java.");
+    //         System.out.println("Java is powerful.");
+    //         System.out.println("I will become a Java Full Stack Developer.");
+    //         System.out.println("====================");
+    //     }
+    // }
