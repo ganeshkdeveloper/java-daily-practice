@@ -309,3 +309,16 @@
     //         System.out.println(status);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String message = "Java Developer";
+    //         System.out.println(message);
+    //         System.out.println(message.length());
+    //         System.out.println(message.toUpperCase());
+    //         System.out.println(message.toLowerCase());
+    //     }
+    // }
