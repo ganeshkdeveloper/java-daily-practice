@@ -678,3 +678,13 @@
 //         System.out.println(Math.floor(number));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int number = (int)(Math.random()*50);
+//         System.out.println(number);
+//     }
+// }
