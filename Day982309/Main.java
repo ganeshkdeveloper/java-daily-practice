@@ -322,3 +322,15 @@
     //         System.out.println(message.toLowerCase());
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            String word = "Developer";
+            System.out.println(word.charAt(0));
+            System.out.println(word.charAt(3));
+            System.out.println(word.charAt(8));
+        }
+    }
