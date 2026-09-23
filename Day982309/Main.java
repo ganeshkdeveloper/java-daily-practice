@@ -494,3 +494,19 @@
     //         System.out.println(sentence.lastIndexOf("Java"));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         // learning splits
+    //         String sentence = "I am learning Java";
+    //         String[] words = sentence.split(" ");
+    //         System.out.println(words[0]);
+    //         System.out.println(words[1]);
+    //         System.out.println(words[2]);
+    //         System.out.println(words[3]);
+            
+    //     }
+    // }
