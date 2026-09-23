@@ -403,3 +403,17 @@
     //         System.out.println(sentence.contains("Python"));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String fileName = "profile.jpg";
+    //         System.out.println(fileName.startsWith("profile"));
+    //         System.out.println(fileName.startsWith("image"));
+    //         System.out.println(fileName.endsWith(".jpg"));
+    //         System.out.println(fileName.endsWith(".png"));
+
+    //     }
+    // }
