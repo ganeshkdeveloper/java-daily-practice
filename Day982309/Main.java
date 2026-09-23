@@ -270,3 +270,16 @@
     //         System.out.println(salary <= 25000);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         int age = 26;
+    //         boolean hasLicense = true;
+    //         System.out.println(age>=18 && hasLicense);
+    //         System.out.println(age<=18 || hasLicense);
+    //         System.out.println(!hasLicense);
+    //     }
+    // }
