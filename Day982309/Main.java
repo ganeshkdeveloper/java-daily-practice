@@ -637,3 +637,14 @@
 //         System.out.println(Math.abs(number));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         //Math formula
+//         double result = Math.pow(3, 4);
+//         System.out.println(result);
+//     }
+// }
