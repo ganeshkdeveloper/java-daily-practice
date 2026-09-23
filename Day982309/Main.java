@@ -366,3 +366,16 @@
     //         System.out.println("I live in " + city);
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            String username1 = "Ganesh";
+            String username2 = "Ganesh";
+            System.out.println(username1.equals(username2));
+            String username3 = "Ganesan";
+            System.out.println(username1.equals(username3));
+        }
+    }
