@@ -149,3 +149,23 @@
     //         System.out.println("====================");
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            //Personal Information
+            String name = "Ganesh";
+            int age = 26;
+            String learning = "Java";
+            String goal = "Java Developer";
+            /*
+            Display the user's Informations
+            */
+           System.out.println("Name: "+ name);
+           System.out.println("Age: "+ age);
+           System.out.println("Learning: "+ learning);
+           System.out.println("Goal: "+ goal);
+        }
+    }
