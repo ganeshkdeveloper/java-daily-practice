@@ -111,23 +111,23 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        String name = "Ganesh";
-        int age = 26;
-        String role = "Frontend Developer";
-        String learning = "Java";
-        String goal = "Java Full Stack Developer";
-        System.out.println("====================");
-        System.out.println("     MY PROFILE");
-        System.out.println("====================");
-        System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
-        System.out.println("Role: " + role);
-        System.out.println("Learning: " + learning);
-        System.out.println("Goal: " + goal);
-        System.out.println("====================");
+//     public static void main(String[] args) {
+//         String name = "Ganesh";
+//         int age = 26;
+//         String role = "Frontend Developer";
+//         String learning = "Java";
+//         String goal = "Java Full Stack Developer";
+//         System.out.println("====================");
+//         System.out.println("     MY PROFILE");
+//         System.out.println("====================");
+//         System.out.println("Name: " + name);
+//         System.out.println("Age: " + age);
+//         System.out.println("Role: " + role);
+//         System.out.println("Learning: " + learning);
+//         System.out.println("Goal: " + goal);
+//         System.out.println("====================");
 
-    }
-}
+//     }
+// }
