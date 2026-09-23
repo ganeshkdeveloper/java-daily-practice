@@ -334,3 +334,17 @@
     //         System.out.println(word.charAt(8));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String word = "Java Developer";
+    //         System.out.println(word.indexOf("J"));
+    //         System.out.println(word.indexOf("D"));
+    //         System.out.println(word.indexOf("Developer"));
+    //         System.out.println(word.indexOf("Python"));
+
+    //     }
+    // }
