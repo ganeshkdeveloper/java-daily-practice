@@ -210,14 +210,14 @@
     /**
      * Main
      */
-    public class Main {
+    // public class Main {
     
-        public static void main(String[] args) {
-            int number = 50;
-            double wholenNumber = number;
-            double price = 125.75;
-            int newPrice = (int) price;
-            System.out.println(wholenNumber);
-            System.out.println(newPrice);
-        }
-    }
+    //     public static void main(String[] args) {
+    //         int number = 50;
+    //         double wholenNumber = number;
+    //         double price = 125.75;
+    //         int newPrice = (int) price;
+    //         System.out.println(wholenNumber);
+    //         System.out.println(newPrice);
+    //     }
+    // }
