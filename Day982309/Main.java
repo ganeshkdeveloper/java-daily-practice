@@ -759,3 +759,16 @@
 //         System.out.println(isLoggedOut);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int age = 17;
+//         boolean hasPermission = true;
+//         boolean isWithParent = false;
+//         boolean canEnter = (age>=18&&hasPermission)||isWithParent;
+//         System.out.println(canEnter);
+//     }
+// }
