@@ -172,20 +172,20 @@
     /**
      * Main
      */
-    public class Main {
+    // public class Main {
     
-        public static void main(String[] args) {
-            // Personal Information
-            String name = "Ganesh";
-            int age = 26;
-            String city = "Chennai";
-            String job = "Software Engineer";
-            int experience = 1;
-            // Personal Information outputs
-            System.out.println("My name is "+name);
-            System.out.println("I am "+age+" years old"); 
-            System.out.println("I live in "+city);
-            System.out.println("I work as a "+ job);
-            System.out.println("I have "+experience+" years of experience");
-        }
-    }
+    //     public static void main(String[] args) {
+    //         // Personal Information
+    //         String name = "Ganesh";
+    //         int age = 26;
+    //         String city = "Chennai";
+    //         String job = "Software Engineer";
+    //         int experience = 1;
+    //         // Personal Information outputs
+    //         System.out.println("My name is "+name);
+    //         System.out.println("I am "+age+" years old"); 
+    //         System.out.println("I live in "+city);
+    //         System.out.println("I work as a "+ job);
+    //         System.out.println("I have "+experience+" years of experience");
+    //     }
+    // }
