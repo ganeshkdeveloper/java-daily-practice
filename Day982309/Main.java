@@ -783,3 +783,17 @@
 //         System.out.println(isPassed);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int number = 25;
+//         String alpha = "Alpha";
+//         System.out.println(number);
+        
+//         System.out.println("Alpha "+alpha);
+
+//     }
+// }
