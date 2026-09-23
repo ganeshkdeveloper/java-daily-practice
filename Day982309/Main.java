@@ -442,3 +442,17 @@
     //         System.out.println(newSentence);
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         // learning trim
+    //         String username = "   Ganesh Developer   ";
+    //         String cleanName = username.trim();
+    //         // trim output
+    //         System.out.println("Original userName:" + username);
+    //         System.out.println("Trimmed userName:" + cleanName);
+    //     }
+    // }
