@@ -391,3 +391,15 @@
     //             System.out.println(language1.equals(language2));
     //         }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String sentence = "I am learning Java Full Stack Development";
+    //         System.out.println(sentence.contains("Java"));
+    //         System.out.println(sentence.contains("Stack"));
+    //         System.out.println(sentence.contains("Python"));
+    //     }
+    // }
