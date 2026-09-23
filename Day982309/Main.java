@@ -555,3 +555,15 @@
     //         System.out.println(role);
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            String city1 = new String("Chennai");
+            String city2 = new String("Chennai");
+            System.out.println(city1.equals(city2));
+            System.out.println(city1==city2);
+        }
+    }
