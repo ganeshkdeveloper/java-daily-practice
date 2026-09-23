@@ -430,3 +430,15 @@
     //         System.out.println(word.substring(5));
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String sentence = "I am learning java";
+    //         String newSentence = sentence.replace("java", "Spring Boot");
+    //         System.out.println(sentence);
+    //         System.out.println(newSentence);
+    //     }
+    // }
