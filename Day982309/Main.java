@@ -417,3 +417,16 @@
 
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         // variable declaration
+    //         String word = "Java Developer";
+    //         // substring uses
+    //         System.out.println(word.substring(0,4));
+    //         System.out.println(word.substring(5));
+    //     }
+    // }
