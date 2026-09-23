@@ -471,3 +471,15 @@
     //         System.out.println(c.isBlank());
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         String firstName = "Ganesh";
+    //         String role = "Developer";
+    //         String profile = firstName.concat(" ").concat(role);
+    //         System.out.println(profile);
+    //     }
+    // }
