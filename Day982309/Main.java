@@ -348,3 +348,21 @@
 
     //     }
     // }
+    /**
+     * Main
+     */
+    // public class Main {
+    
+    //     public static void main(String[] args) {
+    //         // String Variables and values
+    //         String firstName = "Ganesh";
+    //         String lastName = "K";
+    //         String city = "Chennai";
+    //         String fullName = firstName +" "+ lastName;
+
+    //         //output
+
+    //         System.out.println("FullName: " + fullName);
+    //         System.out.println("I live in " + city);
+    //     }
+    // }
