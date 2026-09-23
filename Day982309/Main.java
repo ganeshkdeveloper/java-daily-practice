@@ -668,3 +668,13 @@
 //         System.out.println(Math.ceil(number));
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         double number = 15.8;
+//         System.out.println(Math.floor(number));
+//     }
+// }
