@@ -772,3 +772,14 @@
 //         System.out.println(canEnter);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int marks = 85;
+//         boolean isPassed = marks>=40;
+//         System.out.println(isPassed);
+//     }
+// }
