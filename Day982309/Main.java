@@ -192,18 +192,18 @@
     /**
      * Main
      */
-    public class Main {
+    // public class Main {
     
-        public static void main(String[] args) {
-            String name = "Ganesh";
-            int age = 26;
-            double salary = 30000.55;
-            char grade = 'A';
-            boolean isWorking = true;
-            System.out.println("Name: " + name);
-            System.out.println("Age: " + age);
-            System.out.println("Salary: " + salary);
-            System.out.println("Grade: " + grade);
-            System.out.println("IsWorking: " + isWorking);
-        }
-    }
+    //     public static void main(String[] args) {
+    //         String name = "Ganesh";
+    //         int age = 26;
+    //         double salary = 30000.55;
+    //         char grade = 'A';
+    //         boolean isWorking = true;
+    //         System.out.println("Name: " + name);
+    //         System.out.println("Age: " + age);
+    //         System.out.println("Salary: " + salary);
+    //         System.out.println("Grade: " + grade);
+    //         System.out.println("IsWorking: " + isWorking);
+    //     }
+    // }
