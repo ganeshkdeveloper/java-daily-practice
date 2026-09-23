@@ -609,11 +609,11 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        int a=75;
-        int b=120;
-        System.out.println(Math.min(a,b));
-    }
-}
+//     public static void main(String[] args) {
+//         int a=75;
+//         int b=120;
+//         System.out.println(Math.min(a,b));
+//     }
+// }
