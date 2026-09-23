@@ -698,3 +698,18 @@
 //         System.out.println(number);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         //Boolean learning
+//         boolean isDeveloper = true;
+//         boolean isStudent = false;
+//         boolean isJob = true;
+//         System.out.println(isDeveloper);
+//         System.out.println(isStudent);
+//         System.out.println(isJob); 
+//     }
+// }
