@@ -510,3 +510,13 @@
             
     //     }
     // }
+    /**
+     * Main
+     */
+    public class Main {
+    
+        public static void main(String[] args) {
+            String result = String.join("-", "Java", "Spring", "Boot");
+            System.out.println(result);
+        }
+    }
