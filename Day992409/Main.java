@@ -213,3 +213,24 @@
 //         }
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        //switch
+        int marks = 85;
+        String result = switch(marks){
+             case 90 -> "Excellent";
+            case 80 -> "Very Good";
+            case 70 -> "Good";
+            case 60 -> "Average";
+            case 50 -> "Pass";
+            default -> "Fail";
+
+
+        };
+        System.out.println(result);
+    }
+}
