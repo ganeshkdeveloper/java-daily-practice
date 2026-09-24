@@ -90,3 +90,27 @@
 //         System.out.println(status);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int age = 16;
+        boolean hasParent = true;
+        boolean hasLicense = false;
+        if(age>=18){
+            if(hasLicense){
+                System.out.println("Can drive");
+            }else{
+                System.out.println("Need a license");
+            }
+        }else{
+            if(hasParent){
+                System.out.println("Need parent SuperVision");
+            }else{
+                System.out.println("Cannot drive");
+            }
+        }
+    }
+}
