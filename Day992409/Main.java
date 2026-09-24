@@ -280,14 +280,14 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        int i = 1;
-        int number = 7;
-        while (i<=10) {
-            System.out.println(number+" X "+i+" = " + (number*i));
-            i++;
-        }
-    }
-}
+//     public static void main(String[] args) {
+//         int i = 1;
+//         int number = 7;
+//         while (i<=10) {
+//             System.out.println(number+" X "+i+" = " + (number*i));
+//             i++;
+//         }
+//     }
+// }
