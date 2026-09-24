@@ -174,3 +174,27 @@
 //             }
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        //Switch
+        String browser = "Chrome";
+        switch (browser) {
+            case "Chrome":
+                System.out.println("Google browser");
+                break;
+            case "Firefox":
+                System.out.println("Mozilla browser");
+                break;
+            case "Edge":
+                System.out.println("Microsoft browser");
+                break;
+            default:
+                System.out.println("Unknown Browser");
+                break;
+        }
+    }
+}
