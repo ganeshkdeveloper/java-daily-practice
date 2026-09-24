@@ -81,12 +81,12 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        //Ternary operator practice
-        int age = 17;
-        String status = age>=18? "Adult":"Minor";
-        System.out.println(status);
-    }
-}
+//     public static void main(String[] args) {
+//         //Ternary operator practice
+//         int age = 17;
+//         String status = age>=18? "Adult":"Minor";
+//         System.out.println(status);
+//     }
+// }
