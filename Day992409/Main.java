@@ -201,15 +201,15 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        String browser="Chrome";
-        switch (browser) {
-            case "Chrome"->System.out.println("Google Browser");
-            case "FireFox"->System.out.println("Mozilla browser");
-            case "Edge"->System.out.println("Microsoft browser");
-            default -> System.out.println("Unknown browser");
-        }
-    }
-}
+//     public static void main(String[] args) {
+//         String browser="Chrome";
+//         switch (browser) {
+//             case "Chrome"->System.out.println("Google Browser");
+//             case "FireFox"->System.out.println("Mozilla browser");
+//             case "Edge"->System.out.println("Microsoft browser");
+//             default -> System.out.println("Unknown browser");
+//         }
+//     }
+// }
