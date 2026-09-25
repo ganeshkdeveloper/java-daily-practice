@@ -344,3 +344,15 @@
 //         System.out.println(Arrays.toString(part));
 //     }
 // }
+/**
+ * Main
+ */
+// import  java.util.Arrays;
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int[] numbers = {10, 20, 30, 40, 50, 60};
+//         int index = Arrays.binarySearch(numbers,50);
+//         System.out.println(index);
+//     }
+// }
