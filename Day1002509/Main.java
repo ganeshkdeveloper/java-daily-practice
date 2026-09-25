@@ -227,3 +227,20 @@
 //         System.err.println("Found: "+found);
 //     }
 // }
+/**
+ * Main
+ */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int[] arr={5, 10, 5, 20, 5, 30, 40};
+//         int count = 0;
+//         int search = 5;
+//         for(int i=0;i<arr.length;i++){
+//             if(arr[i]==search){
+//                 count++;
+//             }
+//         }
+//         System.out.println("Count: "+count);
+//     }
+// }
