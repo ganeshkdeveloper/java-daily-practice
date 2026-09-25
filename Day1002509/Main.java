@@ -209,3 +209,21 @@
 //         System.out.println("Samllest: "+min);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        int[] arr = {10, 25, 40, 55, 70};
+        int search = 55;
+        boolean found = false;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i]==search){
+                found=true;
+                break;
+            }
+        }
+        System.err.println("Found: "+found);
+    }
+}
