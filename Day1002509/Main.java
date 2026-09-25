@@ -268,3 +268,15 @@
 //         System.out.println(Arrays.toString(copy));
 //     }
 // }
+/**
+ * Main
+ */
+import  java.util.Arrays;;
+public class Main {
+
+    public static void main(String[] args) {
+        int[] arr = {45, 12, 89, 23, 7, 56};
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+}
