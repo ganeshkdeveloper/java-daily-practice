@@ -54,13 +54,13 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        //for loop
-        int number = 8;
-        for(int i=1;i<=10;i++){
-            System.out.println(number+" X "+i+" = "+number*i);
-        }
-    }
-}
+//     public static void main(String[] args) {
+//         //for loop
+//         int number = 8;
+//         for(int i=1;i<=10;i++){
+//             System.out.println(number+" X "+i+" = "+number*i);
+//         }
+//     }
+// }
