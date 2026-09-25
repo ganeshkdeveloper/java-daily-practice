@@ -306,3 +306,17 @@
 //         System.out.println(numbers[1][1]);
 //     }
 // }
+/**
+ * Main
+ */
+// import java.util.Arrays;
+
+// public class Main {
+
+//     public static void main(String[] args) {
+//         int[] arr1 = {5, 10, 15};
+//         int[] arr2 = {5, 10, 15};
+//         boolean result = Arrays.equals(arr1, arr2);
+//         System.out.println(result);
+//     }
+// }
