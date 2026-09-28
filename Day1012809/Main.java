@@ -71,3 +71,15 @@
 //         System.out.println(result);
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int calculateSquare(int number){
+        return number*number;
+    }
+    public static void main(String[] args) {
+        int result = calculateSquare(5);
+        System.out.println("Square: "+result);
+    }
+}
