@@ -101,15 +101,15 @@
 /**
  * Main
  */
-public class Main {
-    static void display(int value){
-        System.out.println("Integer: "+value);
-    }
-    static void display(String value){
-        System.out.println("String: "+value);
-    }
-    public static void main(String[] args) {
-        display(100);
-        display("Hello");
-    }
-}
+// public class Main {
+//     static void display(int value){
+//         System.out.println("Integer: "+value);
+//     }
+//     static void display(String value){
+//         System.out.println("String: "+value);
+//     }
+//     public static void main(String[] args) {
+//         display(100);
+//         display("Hello");
+//     }
+// }
