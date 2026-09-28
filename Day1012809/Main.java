@@ -98,3 +98,18 @@
 //         System.out.println(multiply(2, 3, 4));
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static void display(int value){
+        System.out.println("Integer: "+value);
+    }
+    static void display(String value){
+        System.out.println("String: "+value);
+    }
+    public static void main(String[] args) {
+        display(100);
+        display("Hello");
+    }
+}
