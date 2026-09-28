@@ -24,3 +24,15 @@
 //         showMessage();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static int getAge(){
+        return 26;
+    }
+    public static void main(String[] args) {
+        int result = getAge();
+        System.out.println(result);
+    }
+}
