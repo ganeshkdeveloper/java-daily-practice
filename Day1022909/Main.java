@@ -8,3 +8,15 @@
 //  }
  
 // }
+/**
+ * Main
+ */
+public class Main {
+    static void test(){
+        int x=100;
+        System.out.println(x);
+    }
+    public static void main(String[] args) {
+        test();
+    }
+}
