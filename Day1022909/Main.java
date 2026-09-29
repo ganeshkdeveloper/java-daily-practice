@@ -45,18 +45,18 @@
 /**
  * Main
  */
-public class Main {
-    static void count(int n) {
+// public class Main {
+//     static void count(int n) {
 
-    if (n == 0) {
-        return;
-    }
+//     if (n == 0) {
+//         return;
+//     }
 
-    System.out.println(n);
+//     System.out.println(n);
 
-    count(n - 1);
-}
-    public static void main(String[] args) {
-        count(5);
-    }
-}
+//     count(n - 1);
+// }
+//     public static void main(String[] args) {
+//         count(5);
+//     }
+// }
