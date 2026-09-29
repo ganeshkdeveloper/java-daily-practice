@@ -20,3 +20,14 @@
 //         test();
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+    static void showName(String name){
+        System.out.println("Name: "+name);
+    }
+    public static void main(String[] args) {
+        showName("Ganesh");
+    }
+}
