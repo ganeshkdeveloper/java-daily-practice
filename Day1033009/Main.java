@@ -56,3 +56,22 @@
 //         student.introduce();
 //     }
 // }
+/**
+ * Main
+ */
+class Employee{
+    String name;
+    double salary;
+    void work(){
+        System.out.println(name+" is Working with salary "+salary);
+    }
+}
+public class Main {
+
+    public static void main(String[] args) {
+        Employee employee=new Employee();
+        employee.name="Ganesh";
+        employee.salary=30000;
+        employee.work();
+    }
+}
