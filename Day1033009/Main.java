@@ -20,20 +20,20 @@
 /**
  * Main
  */
-class Student{
-    String name;
-    int age;
-    double marks;
-}
-public class Main {
+// class Student{
+//     String name;
+//     int age;
+//     double marks;
+// }
+// public class Main {
 
-    public static void main(String[] args) {
-        Student student=new Student();
-        student.name="Ganesh";
-        student.age=26;
-        student.marks=85.5;
-        System.out.println("Name: "+student.name);
-        System.out.println("Age: "+student.age);
-        System.out.println("Marks: "+student.marks);
-    }
-}
+//     public static void main(String[] args) {
+//         Student student=new Student();
+//         student.name="Ganesh";
+//         student.age=26;
+//         student.marks=85.5;
+//         System.out.println("Name: "+student.name);
+//         System.out.println("Age: "+student.age);
+//         System.out.println("Marks: "+student.marks);
+//     }
+// }
