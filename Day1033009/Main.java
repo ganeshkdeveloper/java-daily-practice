@@ -40,19 +40,19 @@
 /**
  * Main
  */
-class Student{
-    String name;
-    int age;
-    void introduce(){
-        System.out.println("My name is "+ name + " and I am "+age+ " years old.");
-    }
-}
-public class Main {
+// class Student{
+//     String name;
+//     int age;
+//     void introduce(){
+//         System.out.println("My name is "+ name + " and I am "+age+ " years old.");
+//     }
+// }
+// public class Main {
 
-    public static void main(String[] args) {
-        Student student=new Student();
-        student.name="Ganesh";
-        student.age=26;
-        student.introduce();
-    }
-}
+//     public static void main(String[] args) {
+//         Student student=new Student();
+//         student.name="Ganesh";
+//         student.age=26;
+//         student.introduce();
+//     }
+// }
