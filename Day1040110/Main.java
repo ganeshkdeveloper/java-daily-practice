@@ -39,3 +39,12 @@
 //         System.out.println("Hello learning");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Lats java");
+    }
+}
