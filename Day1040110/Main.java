@@ -58,3 +58,13 @@
 //         System.out.println("Learning learning learning");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("thalapathy");
+        System.out.println("Ganesan");
+    }
+}
