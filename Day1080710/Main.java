@@ -94,3 +94,12 @@
 //         System.out.println("Hello git");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Helo wati");
+    }
+}
