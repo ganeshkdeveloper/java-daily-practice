@@ -39,3 +39,13 @@
 //         System.out.println("Hello git commit");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("hello.com");
+        System.out.println("helllo.com");
+    }
+}
