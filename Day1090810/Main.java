@@ -96,9 +96,9 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("do what can u do");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("do what can u do");
+//     }
+// }
