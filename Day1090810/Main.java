@@ -39,3 +39,12 @@
 //         System.out.println("Hello java and py programmer");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello agentic ai developer");
+    }
+}
