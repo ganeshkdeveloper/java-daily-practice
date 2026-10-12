@@ -126,3 +126,12 @@
 //         System.out.println("Hello journey!");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello gemini");
+    }
+}
