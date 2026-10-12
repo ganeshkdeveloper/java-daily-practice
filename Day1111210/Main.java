@@ -108,3 +108,12 @@
 //         System.out.println("Hello doctor");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello roll");
+    }
+}
