@@ -77,3 +77,14 @@
 //         System.out.println("Hello");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("he");
+        System.out.println("he");
+        System.out.println("he");
+    }
+}
