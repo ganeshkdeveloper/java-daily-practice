@@ -97,3 +97,14 @@
 //         System.out.println("Hello");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("hello ");
+        System.out.println("hello guys");
+        System.out.println("hello guys");
+    }
+}
