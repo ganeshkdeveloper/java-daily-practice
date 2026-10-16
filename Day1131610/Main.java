@@ -12,3 +12,13 @@
 //         System.out.println("There is no tomorrow");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Only today and present ");
+        System.out.println("Present continous throught our life");
+    }
+}
