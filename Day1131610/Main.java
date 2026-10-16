@@ -70,11 +70,11 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("So dont watch clock");
-        System.out.println("watch the work and yourself selflessly");
-        System.out.println("So do it");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("So dont watch clock");
+//         System.out.println("watch the work and yourself selflessly");
+//         System.out.println("So do it");
+//     }
+// }
