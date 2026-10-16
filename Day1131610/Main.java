@@ -43,9 +43,18 @@
 /**
  * Main
  */
+// public class Main {
+
+//     public static void main(String[] args) {
+//         System.out.println("So present is throughout continous living");
+//     }
+// }
+/**
+ * Main
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("So present is throughout continous living");
+        System.out.println("So there is no time in this world");
     }
 }
