@@ -25,9 +25,9 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("past is in our memory");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("past is in our memory");
+//     }
+// }
