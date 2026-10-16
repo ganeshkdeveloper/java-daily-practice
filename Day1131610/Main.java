@@ -81,9 +81,9 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("so what we do today what we will be in years");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("so what we do today what we will be in years");
+//     }
+// }
