@@ -58,3 +58,12 @@
 //         System.out.println("So there is no time in this world");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Just humans discovered to measure what time what will happen");
+    }
+}
