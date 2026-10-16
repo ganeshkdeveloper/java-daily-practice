@@ -96,3 +96,12 @@
 //         System.out.println("but how human ages");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("so humans ageing is natural ");
+    }
+}
