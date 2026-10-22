@@ -55,9 +55,9 @@
 /**
  * main
  */
-public class main {
+// public class main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello main java");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello main java");
+//     }
+// }
