@@ -69,9 +69,9 @@
 /**
  * M
  */
-public class M {
+// public class M {
 
-    public static void main(String[] args) {
-        System.out.println("Helloman");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Helloman");
+//     }
+// }
