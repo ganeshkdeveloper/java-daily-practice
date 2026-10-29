@@ -51,9 +51,9 @@
 /**
  * M
  */
-public class M {
+// public class M {
 
-    public static void main(String[] args) {
-        System.out.println("Helloprint");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Helloprint");
+//     }
+// }
