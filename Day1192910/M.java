@@ -102,3 +102,12 @@
 //         System.out.println("Tq bye");
 //     }
 // }
+/**
+ * M
+ */
+public class M {
+
+    public static void main(String[] args) {
+        System.out.println("No words");
+    }
+}
