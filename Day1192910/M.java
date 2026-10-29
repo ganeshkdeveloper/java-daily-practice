@@ -93,3 +93,12 @@
 //         System.out.println("Hello man");
 //     }
 // }
+/**
+ * M
+ */
+public class M {
+
+    public static void main(String[] args) {
+        System.out.println("Tq bye");
+    }
+}
