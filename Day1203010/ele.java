@@ -51,9 +51,9 @@
 /**
  * ele
  */
-public class ele {
+// public class ele {
 
-    public static void main(String[] args) {
-        System.out.println("hello sya");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("hello sya");
+//     }
+// }
