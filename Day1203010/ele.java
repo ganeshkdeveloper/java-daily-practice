@@ -30,3 +30,12 @@
 //         System.out.println("Hello Owrls");
 //     }
 // }
+/**
+ * ele
+ */
+public class ele {
+
+    public static void main(String[] args) {
+        System.out.println("hello world ma");
+    }
+}
