@@ -33,9 +33,9 @@
 /**
  * ja
  */
-public class ja {
+// public class ja {
 
-    public static void main(String[] args) {
-        System.out.println("Hello java");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hello java");
+//     }
+// }
