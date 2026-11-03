@@ -48,3 +48,12 @@
 //         System.out.println("Hello world");
 //     }
 // }
+/**
+ * m
+ */
+public class m {
+
+    public static void main(String[] args) {
+        System.out.println("Hello man");
+    }
+}
