@@ -138,3 +138,14 @@
 //         System.out.println("jifhsfd");
 //     }
 // }
+/**
+ * Man
+ */
+public class Man {
+
+    public static void main(String[] args) {
+        System.out.println("ihi");
+        System.out.println("jodjsifj");
+        System.out.println("jdas");
+    }
+}
