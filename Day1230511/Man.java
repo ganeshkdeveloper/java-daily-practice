@@ -114,9 +114,9 @@
 /**
  * Man
  */
-public class Man {
+// public class Man {
 
-    public static void main(String[] args) {
-        System.out.println("Hinsif");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("Hinsif");
+//     }
+// }
