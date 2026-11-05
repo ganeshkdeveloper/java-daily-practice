@@ -60,9 +60,9 @@
 /**
  * Man
  */
-public class Man {
+// public class Man {
 
-    public static void main(String[] args) {
-        System.out.println("elo");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("elo");
+//     }
+// }
