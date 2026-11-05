@@ -84,3 +84,12 @@
 //         System.out.println("println");
 //     }
 // }
+/**
+ * Man
+ */
+public class Man {
+
+    public static void main(String[] args) {
+        System.out.println("hojj");
+    }
+}
