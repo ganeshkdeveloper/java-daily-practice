@@ -51,9 +51,18 @@
 /**
  * Man
  */
+// public class Man {
+
+//     public static void main(String[] args) {
+//         System.out.println("hello Oe");
+//     }
+// }
+/**
+ * Man
+ */
 public class Man {
 
     public static void main(String[] args) {
-        System.out.println("hello Oe");
+        System.out.println("elo");
     }
 }
