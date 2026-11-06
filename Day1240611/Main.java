@@ -84,3 +84,12 @@
 //         System.out.println("isjfi");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("sjfifm");
+    }
+}
