@@ -102,3 +102,12 @@
 //         System.out.println("sifnfsm");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("ifsnfsk");
+    }
+}
