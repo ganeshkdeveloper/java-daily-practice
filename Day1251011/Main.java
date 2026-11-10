@@ -119,4 +119,13 @@
 //     public static void main(String[] args) {
 //         System.out.println("ssnnm,");
 //     }
-// }
+// }c
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("snknfks");
+    }
+}
