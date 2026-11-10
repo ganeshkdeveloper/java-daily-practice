@@ -147,3 +147,12 @@
 //         System.out.println("fsfsmkdml");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("klsksdnklkm");
+    }
+}
