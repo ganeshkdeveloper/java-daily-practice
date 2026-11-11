@@ -147,3 +147,12 @@
 //         System.out.println("akmf");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("smmmmkd");
+    }
+}
