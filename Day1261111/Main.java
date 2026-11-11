@@ -75,3 +75,12 @@
 //         System.out.println("kskmfd");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("smmkmkf");
+    }
+}
