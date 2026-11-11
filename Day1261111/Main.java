@@ -138,3 +138,12 @@
 //         System.out.println("alsdmmkdmk");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("akmf");
+    }
+}
