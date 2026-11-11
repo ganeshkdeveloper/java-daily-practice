@@ -51,9 +51,9 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("fsnskdnkd");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("fsnskdnkd");
+//     }
+// }
