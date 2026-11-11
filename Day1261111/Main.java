@@ -66,3 +66,12 @@
 //         System.out.println("sgmkgkdm");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("kskmfd");
+    }
+}
