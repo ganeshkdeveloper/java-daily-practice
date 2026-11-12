@@ -183,3 +183,12 @@
 //         System.out.println("adk");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("adkal");
+    }
+}
