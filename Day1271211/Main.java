@@ -93,3 +93,12 @@
 //         System.out.println("sjdka,");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("aks");
+    }
+}
