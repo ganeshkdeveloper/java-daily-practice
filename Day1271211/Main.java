@@ -195,10 +195,10 @@
 /**
  * Main
  */
-public class Main {
+// public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("aadkka");
-        System.out.println("ksk");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("aadkka");
+//         System.out.println("ksk");
+//     }
+// }
