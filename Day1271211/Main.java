@@ -21,3 +21,12 @@
 //         System.out.println("jnd");
 //     }
 // }
+/**
+ * Main
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("sjkl");
+    }
+}
