@@ -69,9 +69,9 @@
 /**
  * Man
  */
-public class Man {
+// public class Man {
 
-    public static void main(String[] args) {
-        System.out.println("skdkl");
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println("skdkl");
+//     }
+// }
