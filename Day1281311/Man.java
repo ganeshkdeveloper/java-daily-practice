@@ -21,3 +21,12 @@
 //         System.out.println("jsdaj");
 //     }
 // }
+/**
+ * Man
+ */
+public class Man {
+
+    public static void main(String[] args) {
+        System.out.println("akk,");
+    }
+}
