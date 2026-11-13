@@ -39,3 +39,12 @@
 //         System.out.println("sjjka");
 //     }
 // }
+/**
+ * Man
+ */
+public class Man {
+
+    public static void main(String[] args) {
+        System.out.println("ak");
+    }
+}
